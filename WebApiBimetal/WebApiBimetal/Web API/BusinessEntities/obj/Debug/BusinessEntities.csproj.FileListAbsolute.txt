@@ -1,0 +1,67 @@
+C:\New folder\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\New folder\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\New folder\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\New folder\BusinessEntities\obj\Debug\BusinessEntities.pdb
+C:\charankumar\BiMetal\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\charankumar\BiMetal\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\charankumar\BiMetal\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+C:\charankumar\BiMetal\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\charankumar\BiMetal\BusinessEntities\obj\Debug\BusinessEntities.pdb
+C:\GNSA\BiMetal\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\GNSA\BiMetal\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\GNSA\BiMetal\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\GNSA\BiMetal\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\GNSA\BiMetal\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\GNSA\BiMetal\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\GNSA\BiMetal\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+D:\GNSA\BiMetal\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\GNSA\BiMetal\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\GAYU\ANDROID WEB API\04-06-2018\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\GAYU\ANDROID WEB API\04-06-2018\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BusinessEntities\obj\Debug\BusinessEntities.pdb
+F:\Final SOLUTION\Web API\BusinessEntities\bin\Debug\BusinessEntities.dll
+F:\Final SOLUTION\Web API\BusinessEntities\bin\Debug\BusinessEntities.pdb
+F:\Final SOLUTION\Web API\BusinessEntities\obj\Debug\BusinessEntities.dll
+F:\Final SOLUTION\Web API\BusinessEntities\obj\Debug\BusinessEntities.pdb
+F:\Final SOLUTION\Web API\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+D:\Prakash\Bimetal-WHS\Web API\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\Prakash\Bimetal-WHS\Web API\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\Prakash\Bimetal-WHS\Web API\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\Prakash\Bimetal-WHS\Web API\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\Bimetal-WHS\Web API\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\Bimetal-WHS\Web API\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\Bimetal-WHS\Web API\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+D:\Bimetal-WHS\Web API\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\Bimetal-WHS\Web API\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\User\Muthu\Web API\20190227\Web API\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\User\Muthu\Web API\20190227\Web API\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\User\Muthu\Web API\20190227\Web API\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+D:\User\Muthu\Web API\20190227\Web API\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\User\Muthu\Web API\20190227\Web API\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\VSS\WebApiBimetal\Web API\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\VSS\WebApiBimetal\Web API\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\VSS\WebApiBimetal\Web API\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\VSS\WebApiBimetal\Web API\BusinessEntities\obj\Debug\BusinessEntities.pdb

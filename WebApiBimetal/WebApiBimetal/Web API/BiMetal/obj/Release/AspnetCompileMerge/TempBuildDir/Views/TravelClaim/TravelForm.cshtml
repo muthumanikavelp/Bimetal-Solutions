@@ -1,0 +1,233 @@
+﻿@{
+    ViewBag.Title = "TravelClaimForm";
+    Layout = "~/Views/Shared/_BLayout.cshtml";
+}
+
+
+<h1 class="text-center"></h1>
+<div class="panel panel-default">
+    <div class="panel-heading text-center">Travel Claim Form</div>
+    <div class="panel-body">
+        <h2 class="panel-subhead">Header</h2>
+        <div class="row">
+            <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 form-inline">
+                <div class="form-group">
+                    <label>Emp ID :</label>
+                    <span>Login</span>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 form-inline">
+                <div class="form-group">
+                    <label>Emp Name :</label>
+                    <span>Emp master</span>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 form-inline">
+                <div class="form-group">
+                    <label>Department :</label>
+                    <span>Emp master</span>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 form-inline">
+                <div class="form-group">
+                    <label>Grade :</label>
+                    <span>Login</span>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 form-inline">
+                <div class="form-group">
+                    <label>Claim No :</label>
+                    <span>Emp master</span>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 form-inline">
+                <div class="form-group">
+                    <label>Claim Date :</label>
+                    <span>Emp master</span>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 form-inline">
+                <div class="form-group">
+                    <label>Claim Amount :</label>
+                    <span>Login</span>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 form-inline">
+                <div class="form-group">
+                    <label>Location :</label>
+                    <span>Emp master</span>
+                </div>
+            </div>
+        </div>
+        <div class="divider"></div>
+        <h2 class="panel-subhead">Travel Pre Approval</h2>
+        <div class="row">
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 form-inline mb10">
+                <div class="form-group">
+                    <label>Pre App No:</label>
+                    <input type="text" class="form-control" />
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 form-inline mb10">
+                <div class="form-group">
+                    <label>Place :</label>
+                    <input type="text" class="form-control" />
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 form-inline mb10">
+                <div class="form-group">
+                    <label>Description :</label>
+                    <input type="text" class="form-control" />
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 form-inline mb10">
+                <div class="form-group">
+                    <label>Date Form :</label>
+                    <div class="input-daterange input-group">
+                        <input type="text" class="form-control" />
+                        <span class="input-group-btn">
+                            <span class="btn btn-primary"><i class="fa fa-calendar"></i></span>
+                        </span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 form-inline mb10">
+                <div class="form-group">
+                    <label>Date To :</label>
+                    <div class="input-daterange input-group">
+                        <input type="text" class="form-control" />
+                        <span class="input-group-btn">
+                            <span class="btn btn-primary"><i class="fa fa-calendar"></i></span>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="card p10">
+    <div class="row">
+        <div class="col-xs-12 form-inline mb10">
+            <div class="form-group">
+                <label class="col-md-offset-1">Choose Expenses :</label>
+                <select class="form-control">
+                    <option>Example1</option>
+                    <option>Example2</option>
+                    <option>Example3</option>
+                </select>
+            </div>
+        </div>
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-heading">Ticket Expenses <button class="btn btn-sm btn-primary pull-right" data-toggle="modal" data-target="#summary-modal"><i class="fa fa-plus-circle" aria-hidden="true"></i></button></div>
+        <div class="panel-body">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>SI</th>
+                        <th>Travel Mode</th>
+                        <th>Date</th>
+                        <th>Place From</th>
+                        <th>Place To</th>
+                        <th>Amount</th>
+                        <th>Description</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>XXX</td>
+                        <td>XXX</td>
+                        <td>XXX</td>
+                        <td>XXX</td>
+                        <td>XXX</td>
+                        <td>XXX</td>
+                        <td>XXX</td>
+                        <td>
+                            <button class="btn btn-sm btn-danger"><i class="fa fa-trash" aria-hidden="true"></i></button>
+
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="col-xs-12 text-center mb20 mt20">
+        <button class="btn btn-primary">Save Draft</button>
+        <button class="btn btn-primary">Submit</button>
+    </div>
+</div>
+
+<div id="summary-modal" class="modal fade" role="dialog">
+    <div class="modal-dialog modal-lg">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Expenses</h4>
+            </div>
+            <div class="modal-body">
+                <div class="form-horizontal">
+                    <div class="form-group">
+                        <label class="col-lg-2 col-md-2 col-sm-2 col-xs-4 text-right">Emp ID</label>
+                        <div class="col-lg-4 col-md-4 col-sm-2 col-xs-4">
+                            <input type="text" class="form-control" />
+                        </div>
+                        <label class="col-lg-1 col-md-2 col-sm-2 col-xs-4 text-right">Emp ID</label>
+                        <div class="col-lg-4 col-md-4 col-sm-2 col-xs-4">
+                            <input type="text" class="form-control" />
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="col-lg-2 col-md-2 col-sm-2 col-xs-4 text-right">Emp ID</label>
+                        <div class="col-lg-4 col-md-4 col-sm-2 col-xs-4">
+                            <input type="text" class="form-control" />
+                        </div>
+                        <label class="col-lg-1 col-md-2 col-sm-2 col-xs-4 text-right">Emp ID</label>
+                        <div class="col-lg-4 col-md-4 col-sm-2 col-xs-4">
+                            <input type="text" class="form-control" />
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="col-lg-2 col-md-2 col-sm-2 col-xs-4 text-right">Emp ID</label>
+                        <div class="col-lg-4 col-md-4 col-sm-2 col-xs-4">
+                            <input type="text" class="form-control" />
+                        </div>
+                        <label class="col-lg-1 col-md-2 col-sm-2 col-xs-4 text-right">Emp ID</label>
+                        <div class="col-lg-4 col-md-4 col-sm-2 col-xs-4">
+                            <input type="text" class="form-control" />
+                        </div>
+                    </div>
+
+
+                    <div class="form-group">
+                        <label class="col-lg-5 col-md-4 col-sm-6 col-xs-12 text-right"></label>
+                        <div class="col-lg-5 col-md-6 col-sm-6 col-xs-12">
+                            <button type="button" class="btn btn-default">Cancel</button>
+                            <button type="button" class="btn btn-primary">Submit</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<script src="~/Content/js/jquery.min.js" type="text/javascript"></script>
+<script src="~/Content/js/bootstrap.js"></script>
+<script src="~/Content/js/bootstrap-datepicker.min.js" type="text/javascript"></script>
+<script>
+    $(document).ready(function () {
+        $('.input-daterange').datepicker({
+            format: "dd/mm/yyyy",
+            startDate: 0,
+            autoclose: true,
+            todayHighlight: true
+        });
+    });
+</script>

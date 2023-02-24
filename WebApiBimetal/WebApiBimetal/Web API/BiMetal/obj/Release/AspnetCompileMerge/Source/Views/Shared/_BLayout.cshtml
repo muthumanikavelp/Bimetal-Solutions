@@ -1,0 +1,48 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bimetal</title>
+    @Styles.Render("~/Content/css")
+    @*@Styles.Render("~/bundles/bootstrap")*@
+
+    @*<link rel="stylesheet" href="~/Content/css/bootstrap.css" type="text/css" />
+    <link rel="stylesheet" href="~/Content/css/bootstrap-datepicker.min.css" type="text/css" />
+    <link rel="stylesheet" href="~/Content/css/font-awesome.css" type="text/css" />
+    <link rel="stylesheet" href="~/Content/css/style.css" type="text/css" />*@
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:400,600,700,800,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Courgette" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div id="navbar">
+            @Html.Partial("_Header")
+        </div>
+    </header>
+    <main>
+        <div class="container">
+            @RenderBody()           
+        </div>
+    </main>
+
+    <footer class="text-center">
+        @Html.Partial("_Footer")
+    </footer>
+
+   
+   
+   @*@Scripts.Render("~/bundles/jquery")*@
+   @RenderSection("scripts", required: false)
+
+  
+</body>
+</html>

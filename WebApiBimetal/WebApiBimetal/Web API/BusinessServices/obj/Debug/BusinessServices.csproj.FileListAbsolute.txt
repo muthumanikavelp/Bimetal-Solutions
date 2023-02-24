@@ -1,0 +1,179 @@
+C:\New folder\BusinessServices\bin\Debug\BusinessServices.dll
+C:\New folder\BusinessServices\bin\Debug\BusinessServices.pdb
+C:\New folder\BusinessServices\bin\Debug\BusinessEntities.dll
+C:\New folder\BusinessServices\bin\Debug\DataModel.dll
+C:\New folder\BusinessServices\bin\Debug\BusinessEntities.pdb
+C:\New folder\BusinessServices\bin\Debug\DataModel.pdb
+C:\New folder\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+C:\New folder\BusinessServices\obj\Debug\BusinessServices.dll
+C:\New folder\BusinessServices\obj\Debug\BusinessServices.pdb
+C:\charankumar\BiMetal\BusinessServices\bin\Debug\BusinessServices.dll
+C:\charankumar\BiMetal\BusinessServices\bin\Debug\BusinessServices.pdb
+C:\charankumar\BiMetal\BusinessServices\bin\Debug\BusinessEntities.dll
+C:\charankumar\BiMetal\BusinessServices\bin\Debug\DataModel.dll
+C:\charankumar\BiMetal\BusinessServices\bin\Debug\BusinessEntities.pdb
+C:\charankumar\BiMetal\BusinessServices\bin\Debug\DataModel.pdb
+C:\charankumar\BiMetal\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+C:\charankumar\BiMetal\BusinessServices\obj\Debug\BusinessServices.dll
+C:\charankumar\BiMetal\BusinessServices\obj\Debug\BusinessServices.pdb
+C:\GNSA\BiMetal\BusinessServices\bin\Debug\BusinessServices.dll
+C:\GNSA\BiMetal\BusinessServices\bin\Debug\BusinessServices.pdb
+C:\GNSA\BiMetal\BusinessServices\bin\Debug\BusinessEntities.dll
+C:\GNSA\BiMetal\BusinessServices\bin\Debug\DataModel.dll
+C:\GNSA\BiMetal\BusinessServices\bin\Debug\log4net.dll
+C:\GNSA\BiMetal\BusinessServices\bin\Debug\BusinessEntities.pdb
+C:\GNSA\BiMetal\BusinessServices\bin\Debug\DataModel.pdb
+C:\GNSA\BiMetal\BusinessServices\bin\Debug\log4net.xml
+C:\GNSA\BiMetal\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+C:\GNSA\BiMetal\BusinessServices\obj\Debug\BusinessServices.dll
+C:\GNSA\BiMetal\BusinessServices\obj\Debug\BusinessServices.pdb
+D:\GNSA\BiMetal\BusinessServices\bin\Debug\BusinessServices.dll
+D:\GNSA\BiMetal\BusinessServices\bin\Debug\BusinessServices.pdb
+D:\GNSA\BiMetal\BusinessServices\bin\Debug\BusinessEntities.dll
+D:\GNSA\BiMetal\BusinessServices\bin\Debug\DataModel.dll
+D:\GNSA\BiMetal\BusinessServices\bin\Debug\log4net.dll
+D:\GNSA\BiMetal\BusinessServices\bin\Debug\BusinessEntities.pdb
+D:\GNSA\BiMetal\BusinessServices\bin\Debug\DataModel.pdb
+D:\GNSA\BiMetal\BusinessServices\bin\Debug\log4net.xml
+D:\GNSA\BiMetal\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+D:\GNSA\BiMetal\BusinessServices\obj\Debug\BusinessServices.dll
+D:\GNSA\BiMetal\BusinessServices\obj\Debug\BusinessServices.pdb
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BusinessServices\bin\Debug\BusinessServices.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BusinessServices\bin\Debug\BusinessServices.pdb
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BusinessServices\bin\Debug\BusinessEntities.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BusinessServices\bin\Debug\DataModel.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BusinessServices\bin\Debug\log4net.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BusinessServices\bin\Debug\BusinessEntities.pdb
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BusinessServices\bin\Debug\DataModel.pdb
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BusinessServices\bin\Debug\log4net.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BusinessServices\obj\Debug\BusinessServices.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BusinessServices\obj\Debug\BusinessServices.pdb
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BusinessServices\bin\Debug\BusinessServices.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BusinessServices\bin\Debug\BusinessServices.pdb
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BusinessServices\bin\Debug\BusinessEntities.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BusinessServices\bin\Debug\DataModel.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BusinessServices\bin\Debug\log4net.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BusinessServices\bin\Debug\BusinessEntities.pdb
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BusinessServices\bin\Debug\DataModel.pdb
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BusinessServices\bin\Debug\log4net.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BusinessServices\obj\Debug\BusinessServices.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BusinessServices\obj\Debug\BusinessServices.pdb
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BusinessServices\bin\Debug\BusinessServices.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BusinessServices\bin\Debug\BusinessServices.pdb
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BusinessServices\bin\Debug\BusinessEntities.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BusinessServices\bin\Debug\DataModel.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BusinessServices\bin\Debug\log4net.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BusinessServices\bin\Debug\BusinessEntities.pdb
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BusinessServices\bin\Debug\DataModel.pdb
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BusinessServices\bin\Debug\log4net.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BusinessServices\obj\Debug\BusinessServices.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BusinessServices\obj\Debug\BusinessServices.pdb
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BusinessServices\bin\Debug\BusinessServices.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BusinessServices\bin\Debug\BusinessServices.pdb
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BusinessServices\bin\Debug\BusinessEntities.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BusinessServices\bin\Debug\DataModel.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BusinessServices\bin\Debug\log4net.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BusinessServices\bin\Debug\BusinessEntities.pdb
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BusinessServices\bin\Debug\DataModel.pdb
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BusinessServices\bin\Debug\log4net.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BusinessServices\obj\Debug\BusinessServices.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BusinessServices\obj\Debug\BusinessServices.pdb
+E:\GAYU\ANDROID WEB API\04-06-2018\BusinessServices\bin\Debug\BusinessServices.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BusinessServices\bin\Debug\BusinessServices.pdb
+E:\GAYU\ANDROID WEB API\04-06-2018\BusinessServices\bin\Debug\BusinessEntities.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BusinessServices\bin\Debug\DataModel.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BusinessServices\bin\Debug\log4net.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BusinessServices\bin\Debug\BusinessEntities.pdb
+E:\GAYU\ANDROID WEB API\04-06-2018\BusinessServices\bin\Debug\DataModel.pdb
+E:\GAYU\ANDROID WEB API\04-06-2018\BusinessServices\bin\Debug\log4net.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+E:\GAYU\ANDROID WEB API\04-06-2018\BusinessServices\obj\Debug\BusinessServices.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BusinessServices\obj\Debug\BusinessServices.pdb
+F:\Final SOLUTION\Web API\BusinessServices\bin\Debug\BusinessServices.dll
+F:\Final SOLUTION\Web API\BusinessServices\bin\Debug\BusinessServices.pdb
+F:\Final SOLUTION\Web API\BusinessServices\bin\Debug\BusinessEntities.dll
+F:\Final SOLUTION\Web API\BusinessServices\bin\Debug\DataModel.dll
+F:\Final SOLUTION\Web API\BusinessServices\bin\Debug\log4net.dll
+F:\Final SOLUTION\Web API\BusinessServices\bin\Debug\MySql.Data.dll
+F:\Final SOLUTION\Web API\BusinessServices\bin\Debug\BusinessEntities.pdb
+F:\Final SOLUTION\Web API\BusinessServices\bin\Debug\DataModel.pdb
+F:\Final SOLUTION\Web API\BusinessServices\bin\Debug\log4net.xml
+F:\Final SOLUTION\Web API\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+F:\Final SOLUTION\Web API\BusinessServices\obj\Debug\BusinessServices.dll
+F:\Final SOLUTION\Web API\BusinessServices\obj\Debug\BusinessServices.pdb
+D:\Prakash\Bimetal-WHS\Web API\BusinessServices\bin\Debug\BusinessServices.dll
+D:\Prakash\Bimetal-WHS\Web API\BusinessServices\bin\Debug\BusinessServices.pdb
+D:\Prakash\Bimetal-WHS\Web API\BusinessServices\bin\Debug\BusinessEntities.dll
+D:\Prakash\Bimetal-WHS\Web API\BusinessServices\bin\Debug\DataModel.dll
+D:\Prakash\Bimetal-WHS\Web API\BusinessServices\bin\Debug\log4net.dll
+D:\Prakash\Bimetal-WHS\Web API\BusinessServices\bin\Debug\MySql.Data.dll
+D:\Prakash\Bimetal-WHS\Web API\BusinessServices\bin\Debug\BusinessEntities.pdb
+D:\Prakash\Bimetal-WHS\Web API\BusinessServices\bin\Debug\DataModel.pdb
+D:\Prakash\Bimetal-WHS\Web API\BusinessServices\bin\Debug\log4net.xml
+D:\Prakash\Bimetal-WHS\Web API\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+D:\Prakash\Bimetal-WHS\Web API\BusinessServices\obj\Debug\BusinessServices.dll
+D:\Prakash\Bimetal-WHS\Web API\BusinessServices\obj\Debug\BusinessServices.pdb
+D:\Bimetal-WHS\Web API\BusinessServices\bin\Debug\BusinessServices.dll
+D:\Bimetal-WHS\Web API\BusinessServices\bin\Debug\BusinessServices.pdb
+D:\Bimetal-WHS\Web API\BusinessServices\bin\Debug\BusinessEntities.dll
+D:\Bimetal-WHS\Web API\BusinessServices\bin\Debug\DataModel.dll
+D:\Bimetal-WHS\Web API\BusinessServices\bin\Debug\log4net.dll
+D:\Bimetal-WHS\Web API\BusinessServices\bin\Debug\MySql.Data.dll
+D:\Bimetal-WHS\Web API\BusinessServices\bin\Debug\BusinessEntities.pdb
+D:\Bimetal-WHS\Web API\BusinessServices\bin\Debug\DataModel.pdb
+D:\Bimetal-WHS\Web API\BusinessServices\bin\Debug\log4net.xml
+D:\Bimetal-WHS\Web API\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+D:\Bimetal-WHS\Web API\BusinessServices\obj\Debug\BusinessServices.dll
+D:\Bimetal-WHS\Web API\BusinessServices\obj\Debug\BusinessServices.pdb
+D:\User\Muthu\Web API\20190227\Web API\BusinessServices\bin\Debug\BusinessServices.dll
+D:\User\Muthu\Web API\20190227\Web API\BusinessServices\bin\Debug\BusinessServices.pdb
+D:\User\Muthu\Web API\20190227\Web API\BusinessServices\bin\Debug\BusinessEntities.dll
+D:\User\Muthu\Web API\20190227\Web API\BusinessServices\bin\Debug\DataModel.dll
+D:\User\Muthu\Web API\20190227\Web API\BusinessServices\bin\Debug\log4net.dll
+D:\User\Muthu\Web API\20190227\Web API\BusinessServices\bin\Debug\MySql.Data.dll
+D:\User\Muthu\Web API\20190227\Web API\BusinessServices\bin\Debug\BusinessEntities.pdb
+D:\User\Muthu\Web API\20190227\Web API\BusinessServices\bin\Debug\DataModel.pdb
+D:\User\Muthu\Web API\20190227\Web API\BusinessServices\bin\Debug\log4net.xml
+D:\User\Muthu\Web API\20190227\Web API\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+D:\User\Muthu\Web API\20190227\Web API\BusinessServices\obj\Debug\BusinessServices.dll
+D:\User\Muthu\Web API\20190227\Web API\BusinessServices\obj\Debug\BusinessServices.pdb
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BusinessServices\bin\Debug\BusinessServices.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BusinessServices\bin\Debug\BusinessServices.pdb
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BusinessServices\bin\Debug\BusinessEntities.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BusinessServices\bin\Debug\DataModel.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BusinessServices\bin\Debug\log4net.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BusinessServices\bin\Debug\MySql.Data.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BusinessServices\bin\Debug\BusinessEntities.pdb
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BusinessServices\bin\Debug\DataModel.pdb
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BusinessServices\bin\Debug\log4net.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BusinessServices\obj\Debug\BusinessServices.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BusinessServices\obj\Debug\BusinessServices.pdb
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BusinessServices\bin\Debug\BusinessServices.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BusinessServices\bin\Debug\BusinessServices.pdb
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BusinessServices\bin\Debug\BusinessEntities.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BusinessServices\bin\Debug\DataModel.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BusinessServices\bin\Debug\log4net.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BusinessServices\bin\Debug\MySql.Data.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BusinessServices\bin\Debug\BusinessEntities.pdb
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BusinessServices\bin\Debug\DataModel.pdb
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BusinessServices\bin\Debug\log4net.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BusinessServices\obj\Debug\BusinessServices.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BusinessServices\obj\Debug\BusinessServices.pdb
+D:\VSS\WebApiBimetal\Web API\BusinessServices\bin\Debug\BusinessServices.dll
+D:\VSS\WebApiBimetal\Web API\BusinessServices\bin\Debug\BusinessServices.pdb
+D:\VSS\WebApiBimetal\Web API\BusinessServices\bin\Debug\BusinessEntities.dll
+D:\VSS\WebApiBimetal\Web API\BusinessServices\bin\Debug\DataModel.dll
+D:\VSS\WebApiBimetal\Web API\BusinessServices\bin\Debug\log4net.dll
+D:\VSS\WebApiBimetal\Web API\BusinessServices\bin\Debug\MySql.Data.dll
+D:\VSS\WebApiBimetal\Web API\BusinessServices\bin\Debug\BusinessEntities.pdb
+D:\VSS\WebApiBimetal\Web API\BusinessServices\bin\Debug\DataModel.pdb
+D:\VSS\WebApiBimetal\Web API\BusinessServices\bin\Debug\log4net.xml
+D:\VSS\WebApiBimetal\Web API\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+D:\VSS\WebApiBimetal\Web API\BusinessServices\obj\Debug\BusinessServices.dll
+D:\VSS\WebApiBimetal\Web API\BusinessServices\obj\Debug\BusinessServices.pdb

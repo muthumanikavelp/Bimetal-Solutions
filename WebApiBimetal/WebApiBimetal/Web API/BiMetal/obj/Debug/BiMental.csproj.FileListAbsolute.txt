@@ -1,0 +1,288 @@
+C:\BiMental\BiMental\BiMental\bin\ApplicationInsights.config
+C:\BiMental\BiMental\BiMental\bin\roslyn\csc.exe
+C:\BiMental\BiMental\BiMental\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\BiMental\BiMental\BiMental\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\BiMental\BiMental\BiMental\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\BiMental\BiMental\BiMental\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\BiMental\BiMental\BiMental\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\BiMental\BiMental\BiMental\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\BiMental\BiMental\BiMental\bin\roslyn\System.Collections.Immutable.dll
+C:\BiMental\BiMental\BiMental\bin\roslyn\System.Reflection.Metadata.dll
+C:\BiMental\BiMental\BiMental\bin\roslyn\vbc.exe
+C:\BiMental\BiMental\BiMental\bin\roslyn\VBCSCompiler.exe
+C:\BiMental\BiMental\BiMental\bin\roslyn\VBCSCompiler.exe.config
+C:\BiMental\BiMental\BiMental\bin\BiMental.dll.config
+C:\BiMental\BiMental\BiMental\bin\BiMental.dll
+C:\BiMental\BiMental\BiMental\bin\BiMental.pdb
+C:\BiMental\BiMental\BiMental\bin\Antlr3.Runtime.dll
+C:\BiMental\BiMental\BiMental\bin\BiMental.Business.dll
+C:\BiMental\BiMental\BiMental\bin\BiMental.Data.dll
+C:\BiMental\BiMental\BiMental\bin\EntityFramework.dll
+C:\BiMental\BiMental\BiMental\bin\EntityFramework.SqlServer.dll
+C:\BiMental\BiMental\BiMental\bin\Microsoft.AI.Agent.Intercept.dll
+C:\BiMental\BiMental\BiMental\bin\Microsoft.AI.DependencyCollector.dll
+C:\BiMental\BiMental\BiMental\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\BiMental\BiMental\BiMental\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\BiMental\BiMental\BiMental\bin\Microsoft.AI.Web.dll
+C:\BiMental\BiMental\BiMental\bin\Microsoft.AI.WindowsServer.dll
+C:\BiMental\BiMental\BiMental\bin\Microsoft.ApplicationInsights.dll
+C:\BiMental\BiMental\BiMental\bin\Microsoft.AspNet.Identity.Core.dll
+C:\BiMental\BiMental\BiMental\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\BiMental\BiMental\BiMental\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\BiMental\BiMental\BiMental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\BiMental\BiMental\BiMental\bin\Microsoft.Owin.dll
+C:\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Security.Cookies.dll
+C:\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Security.dll
+C:\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Security.Facebook.dll
+C:\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Security.Google.dll
+C:\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Security.OAuth.dll
+C:\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Security.Twitter.dll
+C:\BiMental\BiMental\BiMental\bin\Microsoft.Web.Infrastructure.dll
+C:\BiMental\BiMental\BiMental\bin\Newtonsoft.Json.dll
+C:\BiMental\BiMental\BiMental\bin\Owin.dll
+C:\BiMental\BiMental\BiMental\bin\System.Net.Http.Formatting.dll
+C:\BiMental\BiMental\BiMental\bin\System.Web.Helpers.dll
+C:\BiMental\BiMental\BiMental\bin\System.Web.Http.dll
+C:\BiMental\BiMental\BiMental\bin\System.Web.Http.Owin.dll
+C:\BiMental\BiMental\BiMental\bin\System.Web.Http.WebHost.dll
+C:\BiMental\BiMental\BiMental\bin\System.Web.Mvc.dll
+C:\BiMental\BiMental\BiMental\bin\System.Web.Optimization.dll
+C:\BiMental\BiMental\BiMental\bin\System.Web.Razor.dll
+C:\BiMental\BiMental\BiMental\bin\System.Web.WebPages.Deployment.dll
+C:\BiMental\BiMental\BiMental\bin\System.Web.WebPages.dll
+C:\BiMental\BiMental\BiMental\bin\System.Web.WebPages.Razor.dll
+C:\BiMental\BiMental\BiMental\bin\WebGrease.dll
+C:\BiMental\BiMental\BiMental\bin\BiMental.Business.pdb
+C:\BiMental\BiMental\BiMental\bin\BiMental.Data.pdb
+C:\BiMental\BiMental\BiMental\bin\Microsoft.AI.DependencyCollector.xml
+C:\BiMental\BiMental\BiMental\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\BiMental\BiMental\BiMental\bin\Microsoft.AI.Web.xml
+C:\BiMental\BiMental\BiMental\bin\Microsoft.AI.WindowsServer.xml
+C:\BiMental\BiMental\BiMental\bin\Microsoft.ApplicationInsights.xml
+C:\BiMental\BiMental\BiMental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\BiMental\BiMental\BiMental\bin\Newtonsoft.Json.xml
+C:\BiMental\BiMental\BiMental\bin\System.Net.Http.Formatting.xml
+C:\BiMental\BiMental\BiMental\bin\System.Web.Helpers.xml
+C:\BiMental\BiMental\BiMental\bin\System.Web.Http.xml
+C:\BiMental\BiMental\BiMental\bin\System.Web.Http.WebHost.xml
+C:\BiMental\BiMental\BiMental\bin\System.Web.Mvc.xml
+C:\BiMental\BiMental\BiMental\bin\System.Web.Optimization.xml
+C:\BiMental\BiMental\BiMental\bin\System.Web.Razor.xml
+C:\BiMental\BiMental\BiMental\bin\System.Web.WebPages.xml
+C:\BiMental\BiMental\BiMental\bin\System.Web.WebPages.Deployment.xml
+C:\BiMental\BiMental\BiMental\bin\System.Web.WebPages.Razor.xml
+C:\BiMental\BiMental\BiMental\bin\Antlr3.Runtime.pdb
+C:\BiMental\BiMental\BiMental\bin\EntityFramework.xml
+C:\BiMental\BiMental\BiMental\bin\EntityFramework.SqlServer.xml
+C:\BiMental\BiMental\BiMental\bin\Microsoft.AspNet.Identity.Core.xml
+C:\BiMental\BiMental\BiMental\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\BiMental\BiMental\BiMental\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\BiMental\BiMental\BiMental\bin\Microsoft.Owin.xml
+C:\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Security.xml
+C:\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Security.Facebook.xml
+C:\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Security.Cookies.xml
+C:\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Security.OAuth.xml
+C:\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Security.Google.xml
+C:\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Security.Twitter.xml
+C:\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\BiMental\BiMental\BiMental\bin\System.Web.Http.Owin.xml
+C:\BiMental\BiMental\BiMental\obj\Debug\BiMental.csprojResolveAssemblyReference.cache
+C:\BiMental\BiMental\BiMental\obj\Debug\BiMental.dll
+C:\BiMental\BiMental\BiMental\obj\Debug\BiMental.pdb
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\ApplicationInsights.config
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\roslyn\csc.exe
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\roslyn\System.Collections.Immutable.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\roslyn\System.Reflection.Metadata.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\roslyn\vbc.exe
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\roslyn\VBCSCompiler.exe
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\roslyn\VBCSCompiler.exe.config
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\BiMental.dll.config
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\BiMental.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\BiMental.pdb
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Antlr3.Runtime.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\BiMental.Business.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\BiMental.Data.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\EntityFramework.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\EntityFramework.SqlServer.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.AI.Agent.Intercept.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.AI.DependencyCollector.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.AI.Web.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.AI.WindowsServer.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.ApplicationInsights.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.AspNet.Identity.Core.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.Owin.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Security.Cookies.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Security.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Security.Facebook.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Security.Google.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Security.OAuth.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Security.Twitter.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.Web.Infrastructure.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Newtonsoft.Json.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Owin.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\System.Net.Http.Formatting.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\System.Web.Helpers.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\System.Web.Http.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\System.Web.Http.Owin.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\System.Web.Http.WebHost.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\System.Web.Mvc.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\System.Web.Optimization.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\System.Web.Razor.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\System.Web.WebPages.Deployment.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\System.Web.WebPages.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\System.Web.WebPages.Razor.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\WebGrease.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\BiMental.Business.pdb
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\BiMental.Data.pdb
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.AI.DependencyCollector.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.AI.Web.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.AI.WindowsServer.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.ApplicationInsights.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Newtonsoft.Json.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\System.Net.Http.Formatting.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\System.Web.Helpers.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\System.Web.Http.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\System.Web.Http.WebHost.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\System.Web.Mvc.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\System.Web.Optimization.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\System.Web.Razor.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\System.Web.WebPages.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\System.Web.WebPages.Deployment.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\System.Web.WebPages.Razor.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Antlr3.Runtime.pdb
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\EntityFramework.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\EntityFramework.SqlServer.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.AspNet.Identity.Core.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.Owin.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Security.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Security.Facebook.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Security.Cookies.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Security.OAuth.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Security.Google.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Security.Twitter.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\bin\System.Web.Http.Owin.xml
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\obj\Debug\BiMental.csprojResolveAssemblyReference.cache
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\obj\Debug\BiMental.dll
+C:\charankumar\BiMental\BiMental\BiMental\BiMental\obj\Debug\BiMental.pdb
+C:\New folder\BiMental\bin\ApplicationInsights.config
+C:\New folder\BiMental\bin\roslyn\csc.exe
+C:\New folder\BiMental\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\New folder\BiMental\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\New folder\BiMental\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\New folder\BiMental\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\New folder\BiMental\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\New folder\BiMental\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\New folder\BiMental\bin\roslyn\System.Collections.Immutable.dll
+C:\New folder\BiMental\bin\roslyn\System.Reflection.Metadata.dll
+C:\New folder\BiMental\bin\roslyn\vbc.exe
+C:\New folder\BiMental\bin\roslyn\VBCSCompiler.exe
+C:\New folder\BiMental\bin\roslyn\VBCSCompiler.exe.config
+C:\New folder\BiMental\bin\BiMental.dll.config
+C:\New folder\BiMental\bin\BiMental.dll
+C:\New folder\BiMental\bin\BiMental.pdb
+C:\New folder\BiMental\bin\Antlr3.Runtime.dll
+C:\New folder\BiMental\bin\BiMental.Business.dll
+C:\New folder\BiMental\bin\BiMental.Data.dll
+C:\New folder\BiMental\bin\BusinessEntities.dll
+C:\New folder\BiMental\bin\BusinessServices.dll
+C:\New folder\BiMental\bin\EntityFramework.dll
+C:\New folder\BiMental\bin\EntityFramework.SqlServer.dll
+C:\New folder\BiMental\bin\Microsoft.AI.Agent.Intercept.dll
+C:\New folder\BiMental\bin\Microsoft.AI.DependencyCollector.dll
+C:\New folder\BiMental\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\New folder\BiMental\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\New folder\BiMental\bin\Microsoft.AI.Web.dll
+C:\New folder\BiMental\bin\Microsoft.AI.WindowsServer.dll
+C:\New folder\BiMental\bin\Microsoft.ApplicationInsights.dll
+C:\New folder\BiMental\bin\Microsoft.AspNet.Identity.Core.dll
+C:\New folder\BiMental\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\New folder\BiMental\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\New folder\BiMental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\New folder\BiMental\bin\Microsoft.Owin.dll
+C:\New folder\BiMental\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\New folder\BiMental\bin\Microsoft.Owin.Security.Cookies.dll
+C:\New folder\BiMental\bin\Microsoft.Owin.Security.dll
+C:\New folder\BiMental\bin\Microsoft.Owin.Security.Facebook.dll
+C:\New folder\BiMental\bin\Microsoft.Owin.Security.Google.dll
+C:\New folder\BiMental\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\New folder\BiMental\bin\Microsoft.Owin.Security.OAuth.dll
+C:\New folder\BiMental\bin\Microsoft.Owin.Security.Twitter.dll
+C:\New folder\BiMental\bin\Microsoft.Web.Infrastructure.dll
+C:\New folder\BiMental\bin\Newtonsoft.Json.dll
+C:\New folder\BiMental\bin\Owin.dll
+C:\New folder\BiMental\bin\System.Net.Http.Formatting.dll
+C:\New folder\BiMental\bin\System.Web.Helpers.dll
+C:\New folder\BiMental\bin\System.Web.Http.dll
+C:\New folder\BiMental\bin\System.Web.Http.Owin.dll
+C:\New folder\BiMental\bin\System.Web.Http.WebHost.dll
+C:\New folder\BiMental\bin\System.Web.Mvc.dll
+C:\New folder\BiMental\bin\System.Web.Optimization.dll
+C:\New folder\BiMental\bin\System.Web.Razor.dll
+C:\New folder\BiMental\bin\System.Web.WebPages.Deployment.dll
+C:\New folder\BiMental\bin\System.Web.WebPages.dll
+C:\New folder\BiMental\bin\System.Web.WebPages.Razor.dll
+C:\New folder\BiMental\bin\WebGrease.dll
+C:\New folder\BiMental\bin\DataModel.dll
+C:\New folder\BiMental\bin\BiMental.Business.pdb
+C:\New folder\BiMental\bin\BiMental.Data.pdb
+C:\New folder\BiMental\bin\BusinessEntities.pdb
+C:\New folder\BiMental\bin\BusinessServices.pdb
+C:\New folder\BiMental\bin\Microsoft.AI.DependencyCollector.xml
+C:\New folder\BiMental\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\New folder\BiMental\bin\Microsoft.AI.Web.xml
+C:\New folder\BiMental\bin\Microsoft.AI.WindowsServer.xml
+C:\New folder\BiMental\bin\Microsoft.ApplicationInsights.xml
+C:\New folder\BiMental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\New folder\BiMental\bin\Newtonsoft.Json.xml
+C:\New folder\BiMental\bin\System.Net.Http.Formatting.xml
+C:\New folder\BiMental\bin\System.Web.Helpers.xml
+C:\New folder\BiMental\bin\System.Web.Http.xml
+C:\New folder\BiMental\bin\System.Web.Http.WebHost.xml
+C:\New folder\BiMental\bin\System.Web.Mvc.xml
+C:\New folder\BiMental\bin\System.Web.Optimization.xml
+C:\New folder\BiMental\bin\System.Web.Razor.xml
+C:\New folder\BiMental\bin\System.Web.WebPages.xml
+C:\New folder\BiMental\bin\System.Web.WebPages.Deployment.xml
+C:\New folder\BiMental\bin\System.Web.WebPages.Razor.xml
+C:\New folder\BiMental\bin\Antlr3.Runtime.pdb
+C:\New folder\BiMental\bin\EntityFramework.xml
+C:\New folder\BiMental\bin\EntityFramework.SqlServer.xml
+C:\New folder\BiMental\bin\Microsoft.AspNet.Identity.Core.xml
+C:\New folder\BiMental\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\New folder\BiMental\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\New folder\BiMental\bin\Microsoft.Owin.xml
+C:\New folder\BiMental\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\New folder\BiMental\bin\Microsoft.Owin.Security.xml
+C:\New folder\BiMental\bin\Microsoft.Owin.Security.Facebook.xml
+C:\New folder\BiMental\bin\Microsoft.Owin.Security.Cookies.xml
+C:\New folder\BiMental\bin\Microsoft.Owin.Security.OAuth.xml
+C:\New folder\BiMental\bin\Microsoft.Owin.Security.Google.xml
+C:\New folder\BiMental\bin\Microsoft.Owin.Security.Twitter.xml
+C:\New folder\BiMental\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\New folder\BiMental\bin\System.Web.Http.Owin.xml
+C:\New folder\BiMental\bin\DataModel.pdb
+C:\New folder\BiMental\obj\Debug\BiMental.csprojResolveAssemblyReference.cache
+C:\New folder\BiMental\obj\Debug\BiMental.dll
+C:\New folder\BiMental\obj\Debug\BiMental.pdb

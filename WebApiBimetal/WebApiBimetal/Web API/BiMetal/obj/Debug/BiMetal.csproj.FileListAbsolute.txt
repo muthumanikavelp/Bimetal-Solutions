@@ -1,0 +1,1667 @@
+C:\New folder\BiMental\obj\Debug\BiMetal.csprojResolveAssemblyReference.cache
+C:\New folder\BiMental\obj\Debug\BiMental.dll
+C:\New folder\BiMental\obj\Debug\BiMental.pdb
+C:\New folder\BiMental\bin\ApplicationInsights.config
+C:\New folder\BiMental\bin\roslyn\csc.exe
+C:\New folder\BiMental\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\New folder\BiMental\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\New folder\BiMental\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\New folder\BiMental\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\New folder\BiMental\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\New folder\BiMental\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\New folder\BiMental\bin\roslyn\System.Collections.Immutable.dll
+C:\New folder\BiMental\bin\roslyn\System.Reflection.Metadata.dll
+C:\New folder\BiMental\bin\roslyn\vbc.exe
+C:\New folder\BiMental\bin\roslyn\VBCSCompiler.exe
+C:\New folder\BiMental\bin\roslyn\VBCSCompiler.exe.config
+C:\New folder\BiMental\bin\BiMental.dll.config
+C:\New folder\BiMental\bin\BiMental.dll
+C:\New folder\BiMental\bin\BiMental.pdb
+C:\New folder\BiMental\bin\Antlr3.Runtime.dll
+C:\New folder\BiMental\bin\BusinessEntities.dll
+C:\New folder\BiMental\bin\BusinessServices.dll
+C:\New folder\BiMental\bin\EntityFramework.dll
+C:\New folder\BiMental\bin\EntityFramework.SqlServer.dll
+C:\New folder\BiMental\bin\Microsoft.AI.Agent.Intercept.dll
+C:\New folder\BiMental\bin\Microsoft.AI.DependencyCollector.dll
+C:\New folder\BiMental\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\New folder\BiMental\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\New folder\BiMental\bin\Microsoft.AI.Web.dll
+C:\New folder\BiMental\bin\Microsoft.AI.WindowsServer.dll
+C:\New folder\BiMental\bin\Microsoft.ApplicationInsights.dll
+C:\New folder\BiMental\bin\Microsoft.AspNet.Identity.Core.dll
+C:\New folder\BiMental\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\New folder\BiMental\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\New folder\BiMental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\New folder\BiMental\bin\Microsoft.Owin.dll
+C:\New folder\BiMental\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\New folder\BiMental\bin\Microsoft.Owin.Security.Cookies.dll
+C:\New folder\BiMental\bin\Microsoft.Owin.Security.dll
+C:\New folder\BiMental\bin\Microsoft.Owin.Security.Facebook.dll
+C:\New folder\BiMental\bin\Microsoft.Owin.Security.Google.dll
+C:\New folder\BiMental\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\New folder\BiMental\bin\Microsoft.Owin.Security.OAuth.dll
+C:\New folder\BiMental\bin\Microsoft.Owin.Security.Twitter.dll
+C:\New folder\BiMental\bin\Microsoft.Web.Infrastructure.dll
+C:\New folder\BiMental\bin\Newtonsoft.Json.dll
+C:\New folder\BiMental\bin\Owin.dll
+C:\New folder\BiMental\bin\System.Net.Http.Formatting.dll
+C:\New folder\BiMental\bin\System.Web.Helpers.dll
+C:\New folder\BiMental\bin\System.Web.Http.dll
+C:\New folder\BiMental\bin\System.Web.Http.Owin.dll
+C:\New folder\BiMental\bin\System.Web.Http.WebHost.dll
+C:\New folder\BiMental\bin\System.Web.Mvc.dll
+C:\New folder\BiMental\bin\System.Web.Optimization.dll
+C:\New folder\BiMental\bin\System.Web.Razor.dll
+C:\New folder\BiMental\bin\System.Web.WebPages.Deployment.dll
+C:\New folder\BiMental\bin\System.Web.WebPages.dll
+C:\New folder\BiMental\bin\System.Web.WebPages.Razor.dll
+C:\New folder\BiMental\bin\WebGrease.dll
+C:\New folder\BiMental\bin\DataModel.dll
+C:\New folder\BiMental\bin\BusinessEntities.pdb
+C:\New folder\BiMental\bin\BusinessServices.pdb
+C:\New folder\BiMental\bin\Microsoft.AI.DependencyCollector.xml
+C:\New folder\BiMental\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\New folder\BiMental\bin\Microsoft.AI.Web.xml
+C:\New folder\BiMental\bin\Microsoft.AI.WindowsServer.xml
+C:\New folder\BiMental\bin\Microsoft.ApplicationInsights.xml
+C:\New folder\BiMental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\New folder\BiMental\bin\Newtonsoft.Json.xml
+C:\New folder\BiMental\bin\System.Net.Http.Formatting.xml
+C:\New folder\BiMental\bin\System.Web.Helpers.xml
+C:\New folder\BiMental\bin\System.Web.Http.xml
+C:\New folder\BiMental\bin\System.Web.Http.WebHost.xml
+C:\New folder\BiMental\bin\System.Web.Mvc.xml
+C:\New folder\BiMental\bin\System.Web.Optimization.xml
+C:\New folder\BiMental\bin\System.Web.Razor.xml
+C:\New folder\BiMental\bin\System.Web.WebPages.xml
+C:\New folder\BiMental\bin\System.Web.WebPages.Deployment.xml
+C:\New folder\BiMental\bin\System.Web.WebPages.Razor.xml
+C:\New folder\BiMental\bin\Antlr3.Runtime.pdb
+C:\New folder\BiMental\bin\EntityFramework.xml
+C:\New folder\BiMental\bin\EntityFramework.SqlServer.xml
+C:\New folder\BiMental\bin\Microsoft.AspNet.Identity.Core.xml
+C:\New folder\BiMental\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\New folder\BiMental\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\New folder\BiMental\bin\Microsoft.Owin.xml
+C:\New folder\BiMental\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\New folder\BiMental\bin\Microsoft.Owin.Security.xml
+C:\New folder\BiMental\bin\Microsoft.Owin.Security.Facebook.xml
+C:\New folder\BiMental\bin\Microsoft.Owin.Security.Cookies.xml
+C:\New folder\BiMental\bin\Microsoft.Owin.Security.OAuth.xml
+C:\New folder\BiMental\bin\Microsoft.Owin.Security.Google.xml
+C:\New folder\BiMental\bin\Microsoft.Owin.Security.Twitter.xml
+C:\New folder\BiMental\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\New folder\BiMental\bin\System.Web.Http.Owin.xml
+C:\New folder\BiMental\bin\DataModel.pdb
+C:\charankumar\BiMetal\BiMental\bin\ApplicationInsights.config
+C:\charankumar\BiMetal\BiMental\bin\roslyn\csc.exe
+C:\charankumar\BiMetal\BiMental\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\charankumar\BiMetal\BiMental\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\charankumar\BiMetal\BiMental\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\charankumar\BiMetal\BiMental\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\charankumar\BiMetal\BiMental\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\charankumar\BiMetal\BiMental\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\charankumar\BiMetal\BiMental\bin\roslyn\System.Collections.Immutable.dll
+C:\charankumar\BiMetal\BiMental\bin\roslyn\System.Reflection.Metadata.dll
+C:\charankumar\BiMetal\BiMental\bin\roslyn\vbc.exe
+C:\charankumar\BiMetal\BiMental\bin\roslyn\VBCSCompiler.exe
+C:\charankumar\BiMetal\BiMental\bin\roslyn\VBCSCompiler.exe.config
+C:\charankumar\BiMetal\BiMental\bin\BiMental.dll.config
+C:\charankumar\BiMetal\BiMental\bin\BiMental.dll
+C:\charankumar\BiMetal\BiMental\bin\BiMental.pdb
+C:\charankumar\BiMetal\BiMental\bin\Antlr3.Runtime.dll
+C:\charankumar\BiMetal\BiMental\bin\BusinessEntities.dll
+C:\charankumar\BiMetal\BiMental\bin\BusinessServices.dll
+C:\charankumar\BiMetal\BiMental\bin\EntityFramework.dll
+C:\charankumar\BiMetal\BiMental\bin\EntityFramework.SqlServer.dll
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.AI.Agent.Intercept.dll
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.AI.DependencyCollector.dll
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.AI.Web.dll
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.AI.WindowsServer.dll
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.ApplicationInsights.dll
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.AspNet.Identity.Core.dll
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.Owin.dll
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.Owin.Security.Cookies.dll
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.Owin.Security.dll
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.Owin.Security.Facebook.dll
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.Owin.Security.Google.dll
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.Owin.Security.OAuth.dll
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.Owin.Security.Twitter.dll
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.Web.Infrastructure.dll
+C:\charankumar\BiMetal\BiMental\bin\Newtonsoft.Json.dll
+C:\charankumar\BiMetal\BiMental\bin\Owin.dll
+C:\charankumar\BiMetal\BiMental\bin\System.Net.Http.Formatting.dll
+C:\charankumar\BiMetal\BiMental\bin\System.Web.Helpers.dll
+C:\charankumar\BiMetal\BiMental\bin\System.Web.Http.dll
+C:\charankumar\BiMetal\BiMental\bin\System.Web.Http.Owin.dll
+C:\charankumar\BiMetal\BiMental\bin\System.Web.Http.WebHost.dll
+C:\charankumar\BiMetal\BiMental\bin\System.Web.Mvc.dll
+C:\charankumar\BiMetal\BiMental\bin\System.Web.Optimization.dll
+C:\charankumar\BiMetal\BiMental\bin\System.Web.Razor.dll
+C:\charankumar\BiMetal\BiMental\bin\System.Web.WebPages.Deployment.dll
+C:\charankumar\BiMetal\BiMental\bin\System.Web.WebPages.dll
+C:\charankumar\BiMetal\BiMental\bin\System.Web.WebPages.Razor.dll
+C:\charankumar\BiMetal\BiMental\bin\WebGrease.dll
+C:\charankumar\BiMetal\BiMental\bin\DataModel.dll
+C:\charankumar\BiMetal\BiMental\bin\BusinessEntities.pdb
+C:\charankumar\BiMetal\BiMental\bin\BusinessServices.pdb
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.AI.DependencyCollector.xml
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.AI.Web.xml
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.AI.WindowsServer.xml
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.ApplicationInsights.xml
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\charankumar\BiMetal\BiMental\bin\Newtonsoft.Json.xml
+C:\charankumar\BiMetal\BiMental\bin\System.Net.Http.Formatting.xml
+C:\charankumar\BiMetal\BiMental\bin\System.Web.Helpers.xml
+C:\charankumar\BiMetal\BiMental\bin\System.Web.Http.xml
+C:\charankumar\BiMetal\BiMental\bin\System.Web.Http.WebHost.xml
+C:\charankumar\BiMetal\BiMental\bin\System.Web.Mvc.xml
+C:\charankumar\BiMetal\BiMental\bin\System.Web.Optimization.xml
+C:\charankumar\BiMetal\BiMental\bin\System.Web.Razor.xml
+C:\charankumar\BiMetal\BiMental\bin\System.Web.WebPages.xml
+C:\charankumar\BiMetal\BiMental\bin\System.Web.WebPages.Deployment.xml
+C:\charankumar\BiMetal\BiMental\bin\System.Web.WebPages.Razor.xml
+C:\charankumar\BiMetal\BiMental\bin\Antlr3.Runtime.pdb
+C:\charankumar\BiMetal\BiMental\bin\EntityFramework.xml
+C:\charankumar\BiMetal\BiMental\bin\EntityFramework.SqlServer.xml
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.AspNet.Identity.Core.xml
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.Owin.xml
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.Owin.Security.xml
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.Owin.Security.Facebook.xml
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.Owin.Security.Cookies.xml
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.Owin.Security.OAuth.xml
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.Owin.Security.Google.xml
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.Owin.Security.Twitter.xml
+C:\charankumar\BiMetal\BiMental\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\charankumar\BiMetal\BiMental\bin\System.Web.Http.Owin.xml
+C:\charankumar\BiMetal\BiMental\bin\DataModel.pdb
+C:\charankumar\BiMetal\BiMental\obj\Debug\BiMetal.csprojResolveAssemblyReference.cache
+C:\charankumar\BiMetal\BiMental\obj\Debug\BiMental.dll
+C:\charankumar\BiMetal\BiMental\obj\Debug\BiMental.pdb
+C:\charankumar\BiMetal\BiMetal\bin\ApplicationInsights.config
+C:\charankumar\BiMetal\BiMetal\bin\roslyn\csc.exe
+C:\charankumar\BiMetal\BiMetal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\charankumar\BiMetal\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\charankumar\BiMetal\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\charankumar\BiMetal\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\charankumar\BiMetal\BiMetal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\charankumar\BiMetal\BiMetal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\charankumar\BiMetal\BiMetal\bin\roslyn\System.Collections.Immutable.dll
+C:\charankumar\BiMetal\BiMetal\bin\roslyn\System.Reflection.Metadata.dll
+C:\charankumar\BiMetal\BiMetal\bin\roslyn\vbc.exe
+C:\charankumar\BiMetal\BiMetal\bin\roslyn\VBCSCompiler.exe
+C:\charankumar\BiMetal\BiMetal\bin\roslyn\VBCSCompiler.exe.config
+C:\charankumar\BiMetal\BiMetal\bin\BiMental.dll.config
+C:\charankumar\BiMetal\BiMetal\bin\BiMental.dll
+C:\charankumar\BiMetal\BiMetal\bin\BiMental.pdb
+C:\charankumar\BiMetal\BiMetal\bin\Antlr3.Runtime.dll
+C:\charankumar\BiMetal\BiMetal\bin\BusinessEntities.dll
+C:\charankumar\BiMetal\BiMetal\bin\BusinessServices.dll
+C:\charankumar\BiMetal\BiMetal\bin\EntityFramework.dll
+C:\charankumar\BiMetal\BiMetal\bin\EntityFramework.SqlServer.dll
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.AI.DependencyCollector.dll
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.AI.Web.dll
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.AI.WindowsServer.dll
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.ApplicationInsights.dll
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.Owin.dll
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.Owin.Security.dll
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Google.dll
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.Web.Infrastructure.dll
+C:\charankumar\BiMetal\BiMetal\bin\Newtonsoft.Json.dll
+C:\charankumar\BiMetal\BiMetal\bin\Owin.dll
+C:\charankumar\BiMetal\BiMetal\bin\System.Net.Http.Formatting.dll
+C:\charankumar\BiMetal\BiMetal\bin\System.Web.Helpers.dll
+C:\charankumar\BiMetal\BiMetal\bin\System.Web.Http.dll
+C:\charankumar\BiMetal\BiMetal\bin\System.Web.Http.Owin.dll
+C:\charankumar\BiMetal\BiMetal\bin\System.Web.Http.WebHost.dll
+C:\charankumar\BiMetal\BiMetal\bin\System.Web.Mvc.dll
+C:\charankumar\BiMetal\BiMetal\bin\System.Web.Optimization.dll
+C:\charankumar\BiMetal\BiMetal\bin\System.Web.Razor.dll
+C:\charankumar\BiMetal\BiMetal\bin\System.Web.WebPages.Deployment.dll
+C:\charankumar\BiMetal\BiMetal\bin\System.Web.WebPages.dll
+C:\charankumar\BiMetal\BiMetal\bin\System.Web.WebPages.Razor.dll
+C:\charankumar\BiMetal\BiMetal\bin\WebGrease.dll
+C:\charankumar\BiMetal\BiMetal\bin\DataModel.dll
+C:\charankumar\BiMetal\BiMetal\bin\BusinessEntities.pdb
+C:\charankumar\BiMetal\BiMetal\bin\BusinessServices.pdb
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.AI.DependencyCollector.xml
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.AI.Web.xml
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.AI.WindowsServer.xml
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.ApplicationInsights.xml
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\charankumar\BiMetal\BiMetal\bin\Newtonsoft.Json.xml
+C:\charankumar\BiMetal\BiMetal\bin\System.Net.Http.Formatting.xml
+C:\charankumar\BiMetal\BiMetal\bin\System.Web.Helpers.xml
+C:\charankumar\BiMetal\BiMetal\bin\System.Web.Http.xml
+C:\charankumar\BiMetal\BiMetal\bin\System.Web.Http.WebHost.xml
+C:\charankumar\BiMetal\BiMetal\bin\System.Web.Mvc.xml
+C:\charankumar\BiMetal\BiMetal\bin\System.Web.Optimization.xml
+C:\charankumar\BiMetal\BiMetal\bin\System.Web.Razor.xml
+C:\charankumar\BiMetal\BiMetal\bin\System.Web.WebPages.xml
+C:\charankumar\BiMetal\BiMetal\bin\System.Web.WebPages.Deployment.xml
+C:\charankumar\BiMetal\BiMetal\bin\System.Web.WebPages.Razor.xml
+C:\charankumar\BiMetal\BiMetal\bin\Antlr3.Runtime.pdb
+C:\charankumar\BiMetal\BiMetal\bin\EntityFramework.xml
+C:\charankumar\BiMetal\BiMetal\bin\EntityFramework.SqlServer.xml
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.Owin.xml
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.Owin.Security.xml
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Google.xml
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\charankumar\BiMetal\BiMetal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\charankumar\BiMetal\BiMetal\bin\System.Web.Http.Owin.xml
+C:\charankumar\BiMetal\BiMetal\bin\DataModel.pdb
+C:\charankumar\BiMetal\BiMetal\obj\Debug\BiMetal.csprojResolveAssemblyReference.cache
+C:\charankumar\BiMetal\BiMetal\obj\Debug\BiMental.dll
+C:\charankumar\BiMetal\BiMetal\obj\Debug\BiMental.pdb
+C:\GNSA\BiMetal\BiMetal\bin\ApplicationInsights.config
+C:\GNSA\BiMetal\BiMetal\bin\roslyn\csc.exe
+C:\GNSA\BiMetal\BiMetal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\GNSA\BiMetal\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GNSA\BiMetal\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\GNSA\BiMetal\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GNSA\BiMetal\BiMetal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\GNSA\BiMetal\BiMetal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\GNSA\BiMetal\BiMetal\bin\roslyn\System.Collections.Immutable.dll
+C:\GNSA\BiMetal\BiMetal\bin\roslyn\System.Reflection.Metadata.dll
+C:\GNSA\BiMetal\BiMetal\bin\roslyn\vbc.exe
+C:\GNSA\BiMetal\BiMetal\bin\roslyn\VBCSCompiler.exe
+C:\GNSA\BiMetal\BiMetal\bin\roslyn\VBCSCompiler.exe.config
+C:\GNSA\BiMetal\BiMetal\bin\BiMental.dll.config
+C:\GNSA\BiMetal\BiMetal\bin\BiMental.dll
+C:\GNSA\BiMetal\BiMetal\bin\BiMental.pdb
+C:\GNSA\BiMetal\BiMetal\bin\Antlr3.Runtime.dll
+C:\GNSA\BiMetal\BiMetal\bin\BusinessEntities.dll
+C:\GNSA\BiMetal\BiMetal\bin\BusinessServices.dll
+C:\GNSA\BiMetal\BiMetal\bin\EntityFramework.dll
+C:\GNSA\BiMetal\BiMetal\bin\EntityFramework.SqlServer.dll
+C:\GNSA\BiMetal\BiMetal\bin\log4net.dll
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.AI.DependencyCollector.dll
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.AI.Web.dll
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.AI.WindowsServer.dll
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.ApplicationInsights.dll
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.dll
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Security.dll
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Google.dll
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.Web.Infrastructure.dll
+C:\GNSA\BiMetal\BiMetal\bin\Newtonsoft.Json.dll
+C:\GNSA\BiMetal\BiMetal\bin\Owin.dll
+C:\GNSA\BiMetal\BiMetal\bin\System.Net.Http.Formatting.dll
+C:\GNSA\BiMetal\BiMetal\bin\System.Web.Helpers.dll
+C:\GNSA\BiMetal\BiMetal\bin\System.Web.Http.dll
+C:\GNSA\BiMetal\BiMetal\bin\System.Web.Http.Owin.dll
+C:\GNSA\BiMetal\BiMetal\bin\System.Web.Http.WebHost.dll
+C:\GNSA\BiMetal\BiMetal\bin\System.Web.Mvc.dll
+C:\GNSA\BiMetal\BiMetal\bin\System.Web.Optimization.dll
+C:\GNSA\BiMetal\BiMetal\bin\System.Web.Razor.dll
+C:\GNSA\BiMetal\BiMetal\bin\System.Web.WebPages.Deployment.dll
+C:\GNSA\BiMetal\BiMetal\bin\System.Web.WebPages.dll
+C:\GNSA\BiMetal\BiMetal\bin\System.Web.WebPages.Razor.dll
+C:\GNSA\BiMetal\BiMetal\bin\WebGrease.dll
+C:\GNSA\BiMetal\BiMetal\bin\DataModel.dll
+C:\GNSA\BiMetal\BiMetal\bin\BusinessEntities.pdb
+C:\GNSA\BiMetal\BiMetal\bin\BusinessServices.pdb
+C:\GNSA\BiMetal\BiMetal\bin\log4net.xml
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.AI.DependencyCollector.xml
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.AI.Web.xml
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.AI.WindowsServer.xml
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.ApplicationInsights.xml
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GNSA\BiMetal\BiMetal\bin\Newtonsoft.Json.xml
+C:\GNSA\BiMetal\BiMetal\bin\System.Net.Http.Formatting.xml
+C:\GNSA\BiMetal\BiMetal\bin\System.Web.Helpers.xml
+C:\GNSA\BiMetal\BiMetal\bin\System.Web.Http.xml
+C:\GNSA\BiMetal\BiMetal\bin\System.Web.Http.WebHost.xml
+C:\GNSA\BiMetal\BiMetal\bin\System.Web.Mvc.xml
+C:\GNSA\BiMetal\BiMetal\bin\System.Web.Optimization.xml
+C:\GNSA\BiMetal\BiMetal\bin\System.Web.Razor.xml
+C:\GNSA\BiMetal\BiMetal\bin\System.Web.WebPages.xml
+C:\GNSA\BiMetal\BiMetal\bin\System.Web.WebPages.Deployment.xml
+C:\GNSA\BiMetal\BiMetal\bin\System.Web.WebPages.Razor.xml
+C:\GNSA\BiMetal\BiMetal\bin\Antlr3.Runtime.pdb
+C:\GNSA\BiMetal\BiMetal\bin\EntityFramework.xml
+C:\GNSA\BiMetal\BiMetal\bin\EntityFramework.SqlServer.xml
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.xml
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Security.xml
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Google.xml
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\GNSA\BiMetal\BiMetal\bin\System.Web.Http.Owin.xml
+C:\GNSA\BiMetal\BiMetal\bin\DataModel.pdb
+C:\GNSA\BiMetal\BiMetal\obj\Debug\BiMetal.csprojResolveAssemblyReference.cache
+C:\GNSA\BiMetal\BiMetal\obj\Debug\BiMental.dll
+C:\GNSA\BiMetal\BiMetal\obj\Debug\BiMental.pdb
+D:\GNSA\BiMetal\BiMetal\bin\ApplicationInsights.config
+D:\GNSA\BiMetal\BiMetal\bin\roslyn\csc.exe
+D:\GNSA\BiMetal\BiMetal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GNSA\BiMetal\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GNSA\BiMetal\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GNSA\BiMetal\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GNSA\BiMetal\BiMetal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GNSA\BiMetal\BiMetal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GNSA\BiMetal\BiMetal\bin\roslyn\System.Collections.Immutable.dll
+D:\GNSA\BiMetal\BiMetal\bin\roslyn\System.Reflection.Metadata.dll
+D:\GNSA\BiMetal\BiMetal\bin\roslyn\vbc.exe
+D:\GNSA\BiMetal\BiMetal\bin\roslyn\VBCSCompiler.exe
+D:\GNSA\BiMetal\BiMetal\bin\roslyn\VBCSCompiler.exe.config
+D:\GNSA\BiMetal\BiMetal\bin\BiMental.dll.config
+D:\GNSA\BiMetal\BiMetal\bin\BiMental.dll
+D:\GNSA\BiMetal\BiMetal\bin\BiMental.pdb
+D:\GNSA\BiMetal\BiMetal\bin\Antlr3.Runtime.dll
+D:\GNSA\BiMetal\BiMetal\bin\BusinessEntities.dll
+D:\GNSA\BiMetal\BiMetal\bin\BusinessServices.dll
+D:\GNSA\BiMetal\BiMetal\bin\EntityFramework.dll
+D:\GNSA\BiMetal\BiMetal\bin\EntityFramework.SqlServer.dll
+D:\GNSA\BiMetal\BiMetal\bin\log4net.dll
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.AI.Agent.Intercept.dll
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.AI.DependencyCollector.dll
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.AI.Web.dll
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.AI.WindowsServer.dll
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.ApplicationInsights.dll
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.Core.dll
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.dll
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Cookies.dll
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Security.dll
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Facebook.dll
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Google.dll
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Security.OAuth.dll
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Twitter.dll
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.Web.Infrastructure.dll
+D:\GNSA\BiMetal\BiMetal\bin\Newtonsoft.Json.dll
+D:\GNSA\BiMetal\BiMetal\bin\Owin.dll
+D:\GNSA\BiMetal\BiMetal\bin\System.Net.Http.Formatting.dll
+D:\GNSA\BiMetal\BiMetal\bin\System.Web.Helpers.dll
+D:\GNSA\BiMetal\BiMetal\bin\System.Web.Http.dll
+D:\GNSA\BiMetal\BiMetal\bin\System.Web.Http.Owin.dll
+D:\GNSA\BiMetal\BiMetal\bin\System.Web.Http.WebHost.dll
+D:\GNSA\BiMetal\BiMetal\bin\System.Web.Mvc.dll
+D:\GNSA\BiMetal\BiMetal\bin\System.Web.Optimization.dll
+D:\GNSA\BiMetal\BiMetal\bin\System.Web.Razor.dll
+D:\GNSA\BiMetal\BiMetal\bin\System.Web.WebPages.Deployment.dll
+D:\GNSA\BiMetal\BiMetal\bin\System.Web.WebPages.dll
+D:\GNSA\BiMetal\BiMetal\bin\System.Web.WebPages.Razor.dll
+D:\GNSA\BiMetal\BiMetal\bin\WebGrease.dll
+D:\GNSA\BiMetal\BiMetal\bin\DataModel.dll
+D:\GNSA\BiMetal\BiMetal\bin\BusinessEntities.pdb
+D:\GNSA\BiMetal\BiMetal\bin\BusinessServices.pdb
+D:\GNSA\BiMetal\BiMetal\bin\log4net.xml
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.AI.DependencyCollector.xml
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.AI.Web.xml
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.AI.WindowsServer.xml
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.ApplicationInsights.xml
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GNSA\BiMetal\BiMetal\bin\Newtonsoft.Json.xml
+D:\GNSA\BiMetal\BiMetal\bin\System.Net.Http.Formatting.xml
+D:\GNSA\BiMetal\BiMetal\bin\System.Web.Helpers.xml
+D:\GNSA\BiMetal\BiMetal\bin\System.Web.Http.xml
+D:\GNSA\BiMetal\BiMetal\bin\System.Web.Http.WebHost.xml
+D:\GNSA\BiMetal\BiMetal\bin\System.Web.Mvc.xml
+D:\GNSA\BiMetal\BiMetal\bin\System.Web.Optimization.xml
+D:\GNSA\BiMetal\BiMetal\bin\System.Web.Razor.xml
+D:\GNSA\BiMetal\BiMetal\bin\System.Web.WebPages.xml
+D:\GNSA\BiMetal\BiMetal\bin\System.Web.WebPages.Deployment.xml
+D:\GNSA\BiMetal\BiMetal\bin\System.Web.WebPages.Razor.xml
+D:\GNSA\BiMetal\BiMetal\bin\Antlr3.Runtime.pdb
+D:\GNSA\BiMetal\BiMetal\bin\EntityFramework.xml
+D:\GNSA\BiMetal\BiMetal\bin\EntityFramework.SqlServer.xml
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.Core.xml
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.xml
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Security.xml
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Facebook.xml
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Cookies.xml
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Security.OAuth.xml
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Google.xml
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Twitter.xml
+D:\GNSA\BiMetal\BiMetal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\GNSA\BiMetal\BiMetal\bin\System.Web.Http.Owin.xml
+D:\GNSA\BiMetal\BiMetal\bin\DataModel.pdb
+D:\GNSA\BiMetal\BiMetal\obj\Debug\BiMetal.csprojResolveAssemblyReference.cache
+D:\GNSA\BiMetal\BiMetal\obj\Debug\BiMental.dll
+D:\GNSA\BiMetal\BiMetal\obj\Debug\BiMental.pdb
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\ApplicationInsights.config
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\roslyn\csc.exe
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\roslyn\System.Collections.Immutable.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\roslyn\System.Reflection.Metadata.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\roslyn\vbc.exe
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\roslyn\VBCSCompiler.exe
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\roslyn\VBCSCompiler.exe.config
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\BiMental.dll.config
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\BiMental.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\BiMental.pdb
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Antlr3.Runtime.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\BusinessEntities.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\BusinessServices.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\EntityFramework.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\EntityFramework.SqlServer.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\log4net.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.AI.Agent.Intercept.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.AI.DependencyCollector.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.AI.Web.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.AI.WindowsServer.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.ApplicationInsights.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.Core.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.Owin.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Cookies.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.Owin.Security.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Facebook.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Google.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.Owin.Security.OAuth.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Twitter.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.Web.Infrastructure.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Newtonsoft.Json.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Owin.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\System.Net.Http.Formatting.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\System.Web.Helpers.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\System.Web.Http.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\System.Web.Http.Owin.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\System.Web.Http.WebHost.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\System.Web.Mvc.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\System.Web.Optimization.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\System.Web.Razor.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\System.Web.WebPages.Deployment.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\System.Web.WebPages.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\System.Web.WebPages.Razor.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\WebGrease.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\DataModel.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\BusinessEntities.pdb
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\BusinessServices.pdb
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\log4net.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.AI.DependencyCollector.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.AI.Web.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.AI.WindowsServer.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.ApplicationInsights.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Newtonsoft.Json.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\System.Net.Http.Formatting.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\System.Web.Helpers.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\System.Web.Http.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\System.Web.Http.WebHost.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\System.Web.Mvc.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\System.Web.Optimization.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\System.Web.Razor.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\System.Web.WebPages.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\System.Web.WebPages.Deployment.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\System.Web.WebPages.Razor.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Antlr3.Runtime.pdb
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\EntityFramework.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\EntityFramework.SqlServer.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.Core.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.Owin.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.Owin.Security.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Facebook.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Cookies.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.Owin.Security.OAuth.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Google.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Twitter.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\System.Web.Http.Owin.xml
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\bin\DataModel.pdb
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\obj\Debug\BiMetal.csprojResolveAssemblyReference.cache
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\obj\Debug\BiMental.dll
+E:\GAYU\ANDROID WEB API\Integrated Code for Mobile Demo\BiMetal\BiMetal\obj\Debug\BiMental.pdb
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\ApplicationInsights.config
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\roslyn\csc.exe
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\roslyn\System.Collections.Immutable.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\roslyn\System.Reflection.Metadata.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\roslyn\vbc.exe
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\roslyn\VBCSCompiler.exe
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\roslyn\VBCSCompiler.exe.config
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\BiMental.dll.config
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\BiMental.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\BiMental.pdb
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Antlr3.Runtime.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\BusinessEntities.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\BusinessServices.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\EntityFramework.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\EntityFramework.SqlServer.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\log4net.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.AI.Agent.Intercept.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.AI.DependencyCollector.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.AI.Web.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.AI.WindowsServer.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.ApplicationInsights.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.Core.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Cookies.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Facebook.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Google.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.OAuth.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Twitter.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.Web.Infrastructure.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Newtonsoft.Json.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Owin.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\System.Net.Http.Formatting.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\System.Web.Helpers.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\System.Web.Http.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\System.Web.Http.Owin.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\System.Web.Http.WebHost.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\System.Web.Mvc.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\System.Web.Optimization.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\System.Web.Razor.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\System.Web.WebPages.Deployment.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\System.Web.WebPages.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\System.Web.WebPages.Razor.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\WebGrease.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\DataModel.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\BusinessEntities.pdb
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\BusinessServices.pdb
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\log4net.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.AI.DependencyCollector.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.AI.Web.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.AI.WindowsServer.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.ApplicationInsights.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Newtonsoft.Json.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\System.Net.Http.Formatting.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\System.Web.Helpers.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\System.Web.Http.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\System.Web.Http.WebHost.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\System.Web.Mvc.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\System.Web.Optimization.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\System.Web.Razor.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\System.Web.WebPages.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\System.Web.WebPages.Deployment.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\System.Web.WebPages.Razor.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Antlr3.Runtime.pdb
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\EntityFramework.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\EntityFramework.SqlServer.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.Core.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Facebook.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Cookies.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.OAuth.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Google.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Twitter.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\System.Web.Http.Owin.xml
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\bin\DataModel.pdb
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\obj\Debug\BiMetal.csprojResolveAssemblyReference.cache
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\obj\Debug\BiMental.dll
+E:\GAYU\ANDROID WEB API\12-01-2018\BiMetal\BiMetal\obj\Debug\BiMental.pdb
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\ApplicationInsights.config
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\roslyn\csc.exe
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\roslyn\System.Collections.Immutable.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\roslyn\System.Reflection.Metadata.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\roslyn\vbc.exe
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\roslyn\VBCSCompiler.exe
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\roslyn\VBCSCompiler.exe.config
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\BiMental.dll.config
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\BiMental.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\BiMental.pdb
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Antlr3.Runtime.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\BusinessEntities.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\BusinessServices.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\EntityFramework.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\EntityFramework.SqlServer.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\log4net.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.AI.Agent.Intercept.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.AI.DependencyCollector.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.AI.Web.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.AI.WindowsServer.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.ApplicationInsights.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.Core.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Cookies.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Facebook.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Google.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.OAuth.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Twitter.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.Web.Infrastructure.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Newtonsoft.Json.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Owin.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\System.Net.Http.Formatting.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\System.Web.Helpers.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\System.Web.Http.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\System.Web.Http.Owin.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\System.Web.Http.WebHost.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\System.Web.Mvc.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\System.Web.Optimization.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\System.Web.Razor.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\System.Web.WebPages.Deployment.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\System.Web.WebPages.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\System.Web.WebPages.Razor.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\WebGrease.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\DataModel.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\BusinessEntities.pdb
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\BusinessServices.pdb
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\log4net.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.AI.DependencyCollector.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.AI.Web.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.AI.WindowsServer.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.ApplicationInsights.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Newtonsoft.Json.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\System.Net.Http.Formatting.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\System.Web.Helpers.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\System.Web.Http.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\System.Web.Http.WebHost.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\System.Web.Mvc.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\System.Web.Optimization.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\System.Web.Razor.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\System.Web.WebPages.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\System.Web.WebPages.Deployment.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\System.Web.WebPages.Razor.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Antlr3.Runtime.pdb
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\EntityFramework.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\EntityFramework.SqlServer.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.Core.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Facebook.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Cookies.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.OAuth.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Google.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Twitter.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\System.Web.Http.Owin.xml
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\bin\DataModel.pdb
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\obj\Debug\BiMetal.csprojResolveAssemblyReference.cache
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\obj\Debug\BiMental.dll
+E:\GAYU\ANDROID WEB API\19-01-2018\BiMetal\BiMetal\obj\Debug\BiMental.pdb
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\ApplicationInsights.config
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\roslyn\csc.exe
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\roslyn\System.Collections.Immutable.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\roslyn\System.Reflection.Metadata.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\roslyn\vbc.exe
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\roslyn\VBCSCompiler.exe
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\roslyn\VBCSCompiler.exe.config
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\BiMental.dll.config
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\BiMental.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\BiMental.pdb
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Antlr3.Runtime.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\BusinessEntities.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\BusinessServices.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\EntityFramework.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\EntityFramework.SqlServer.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\log4net.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.AI.Agent.Intercept.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.AI.DependencyCollector.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.AI.Web.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.AI.WindowsServer.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.ApplicationInsights.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.Core.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.Owin.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Cookies.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Facebook.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Google.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.OAuth.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Twitter.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.Web.Infrastructure.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Newtonsoft.Json.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Owin.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\System.Net.Http.Formatting.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\System.Web.Helpers.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\System.Web.Http.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\System.Web.Http.Owin.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\System.Web.Http.WebHost.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\System.Web.Mvc.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\System.Web.Optimization.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\System.Web.Razor.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\System.Web.WebPages.Deployment.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\System.Web.WebPages.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\System.Web.WebPages.Razor.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\WebGrease.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\DataModel.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\BusinessEntities.pdb
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\BusinessServices.pdb
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\log4net.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.AI.DependencyCollector.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.AI.Web.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.AI.WindowsServer.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.ApplicationInsights.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Newtonsoft.Json.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\System.Net.Http.Formatting.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\System.Web.Helpers.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\System.Web.Http.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\System.Web.Http.WebHost.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\System.Web.Mvc.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\System.Web.Optimization.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\System.Web.Razor.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\System.Web.WebPages.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\System.Web.WebPages.Deployment.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\System.Web.WebPages.Razor.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Antlr3.Runtime.pdb
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\EntityFramework.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\EntityFramework.SqlServer.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.Core.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.Owin.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Facebook.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Cookies.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.OAuth.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Google.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.Twitter.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\System.Web.Http.Owin.xml
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\bin\DataModel.pdb
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\obj\Debug\BiMetal.csprojResolveAssemblyReference.cache
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\obj\Debug\BiMental.dll
+E:\GAYU\ANDROID WEB API\05-02-2018\BiMetal\BiMetal\obj\Debug\BiMental.pdb
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\ApplicationInsights.config
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\roslyn\csc.exe
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\roslyn\System.Collections.Immutable.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\roslyn\System.Reflection.Metadata.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\roslyn\vbc.exe
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\roslyn\VBCSCompiler.exe
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\roslyn\VBCSCompiler.exe.config
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\BiMental.dll.config
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\BiMental.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\BiMental.pdb
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Antlr3.Runtime.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\BusinessEntities.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\BusinessServices.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\EntityFramework.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\EntityFramework.SqlServer.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\log4net.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.AI.Agent.Intercept.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.AI.DependencyCollector.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.AI.Web.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.AI.WindowsServer.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.ApplicationInsights.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.AspNet.Identity.Core.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.Owin.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.Owin.Security.Cookies.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.Owin.Security.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.Owin.Security.Facebook.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.Owin.Security.Google.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.Owin.Security.OAuth.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.Owin.Security.Twitter.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.Web.Infrastructure.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Newtonsoft.Json.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Owin.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\System.Net.Http.Formatting.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\System.Web.Helpers.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\System.Web.Http.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\System.Web.Http.Owin.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\System.Web.Http.WebHost.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\System.Web.Mvc.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\System.Web.Optimization.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\System.Web.Razor.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\System.Web.WebPages.Deployment.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\System.Web.WebPages.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\System.Web.WebPages.Razor.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\WebGrease.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\DataModel.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\BusinessEntities.pdb
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\BusinessServices.pdb
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\log4net.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.AI.DependencyCollector.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.AI.Web.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.AI.WindowsServer.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.ApplicationInsights.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Newtonsoft.Json.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\System.Net.Http.Formatting.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\System.Web.Helpers.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\System.Web.Http.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\System.Web.Http.WebHost.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\System.Web.Mvc.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\System.Web.Optimization.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\System.Web.Razor.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\System.Web.WebPages.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\System.Web.WebPages.Deployment.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\System.Web.WebPages.Razor.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Antlr3.Runtime.pdb
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\EntityFramework.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\EntityFramework.SqlServer.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.AspNet.Identity.Core.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.Owin.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.Owin.Security.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.Owin.Security.Facebook.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.Owin.Security.Cookies.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.Owin.Security.OAuth.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.Owin.Security.Google.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.Owin.Security.Twitter.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\System.Web.Http.Owin.xml
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\bin\DataModel.pdb
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\obj\Debug\BiMetal.csprojResolveAssemblyReference.cache
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\obj\Debug\BiMental.dll
+E:\GAYU\ANDROID WEB API\04-06-2018\BiMetal\obj\Debug\BiMental.pdb
+F:\Final SOLUTION\Web API\BiMetal\bin\ApplicationInsights.config
+F:\Final SOLUTION\Web API\BiMetal\bin\roslyn\csc.exe
+F:\Final SOLUTION\Web API\BiMetal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Final SOLUTION\Web API\BiMetal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Final SOLUTION\Web API\BiMetal\bin\roslyn\System.Collections.Immutable.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\roslyn\System.Reflection.Metadata.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\roslyn\vbc.exe
+F:\Final SOLUTION\Web API\BiMetal\bin\roslyn\VBCSCompiler.exe
+F:\Final SOLUTION\Web API\BiMetal\bin\roslyn\VBCSCompiler.exe.config
+F:\Final SOLUTION\Web API\BiMetal\bin\BiMental.dll.config
+F:\Final SOLUTION\Web API\BiMetal\bin\BiMental.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\BiMental.pdb
+F:\Final SOLUTION\Web API\BiMetal\bin\Antlr3.Runtime.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\BusinessEntities.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\BusinessServices.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\EntityFramework.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\EntityFramework.SqlServer.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\log4net.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.AI.DependencyCollector.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.AI.Web.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.AI.WindowsServer.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.ApplicationInsights.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.Owin.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.Owin.Security.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.Owin.Security.Google.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.Web.Infrastructure.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\Newtonsoft.Json.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\Owin.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\System.Net.Http.Formatting.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\System.Web.Helpers.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\System.Web.Http.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\System.Web.Http.Owin.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\System.Web.Http.WebHost.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\System.Web.Mvc.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\System.Web.Optimization.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\System.Web.Razor.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\System.Web.WebPages.Deployment.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\System.Web.WebPages.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\System.Web.WebPages.Razor.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\WebGrease.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\DataModel.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\MySql.Data.dll
+F:\Final SOLUTION\Web API\BiMetal\bin\BusinessEntities.pdb
+F:\Final SOLUTION\Web API\BiMetal\bin\BusinessServices.pdb
+F:\Final SOLUTION\Web API\BiMetal\bin\log4net.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.AI.DependencyCollector.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.AI.Web.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.AI.WindowsServer.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.ApplicationInsights.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\Newtonsoft.Json.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\System.Net.Http.Formatting.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\System.Web.Helpers.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\System.Web.Http.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\System.Web.Http.WebHost.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\System.Web.Mvc.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\System.Web.Optimization.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\System.Web.Razor.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\System.Web.WebPages.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\System.Web.WebPages.Deployment.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\System.Web.WebPages.Razor.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\Antlr3.Runtime.pdb
+F:\Final SOLUTION\Web API\BiMetal\bin\EntityFramework.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\EntityFramework.SqlServer.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.Owin.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.Owin.Security.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.Owin.Security.Google.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\System.Web.Http.Owin.xml
+F:\Final SOLUTION\Web API\BiMetal\bin\DataModel.pdb
+F:\Final SOLUTION\Web API\BiMetal\obj\Debug\BiMetal.csprojResolveAssemblyReference.cache
+F:\Final SOLUTION\Web API\BiMetal\obj\Debug\BiMental.dll
+F:\Final SOLUTION\Web API\BiMetal\obj\Debug\BiMental.pdb
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\ApplicationInsights.config
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\roslyn\csc.exe
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\roslyn\System.Collections.Immutable.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\roslyn\System.Reflection.Metadata.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\roslyn\vbc.exe
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\roslyn\VBCSCompiler.exe
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\roslyn\VBCSCompiler.exe.config
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\BiMental.dll.config
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\BiMental.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\BiMental.pdb
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Antlr3.Runtime.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\BusinessEntities.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\BusinessServices.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\EntityFramework.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\EntityFramework.SqlServer.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\log4net.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AI.DependencyCollector.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AI.Web.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AI.WindowsServer.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.ApplicationInsights.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Security.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Security.Google.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Web.Infrastructure.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Newtonsoft.Json.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Owin.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\System.Net.Http.Formatting.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\System.Web.Helpers.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\System.Web.Http.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\System.Web.Http.Owin.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\System.Web.Http.WebHost.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\System.Web.Mvc.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\System.Web.Optimization.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\System.Web.Razor.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\System.Web.WebPages.Deployment.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\System.Web.WebPages.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\System.Web.WebPages.Razor.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\WebGrease.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\DataModel.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\MySql.Data.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\BusinessEntities.pdb
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\BusinessServices.pdb
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\log4net.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AI.DependencyCollector.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AI.Web.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AI.WindowsServer.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.ApplicationInsights.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Newtonsoft.Json.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\System.Net.Http.Formatting.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\System.Web.Helpers.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\System.Web.Http.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\System.Web.Http.WebHost.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\System.Web.Mvc.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\System.Web.Optimization.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\System.Web.Razor.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\System.Web.WebPages.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\System.Web.WebPages.Deployment.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\System.Web.WebPages.Razor.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Antlr3.Runtime.pdb
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\EntityFramework.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\EntityFramework.SqlServer.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Security.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Security.Google.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\System.Web.Http.Owin.xml
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\bin\DataModel.pdb
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\obj\Debug\BiMetal.csprojResolveAssemblyReference.cache
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\obj\Debug\BiMental.dll
+D:\Prakash\Bimetal-WHS\Web API\BiMetal\obj\Debug\BiMental.pdb
+D:\Bimetal-WHS\Web API\BiMetal\bin\ApplicationInsights.config
+D:\Bimetal-WHS\Web API\BiMetal\bin\roslyn\csc.exe
+D:\Bimetal-WHS\Web API\BiMetal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Bimetal-WHS\Web API\BiMetal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Bimetal-WHS\Web API\BiMetal\bin\roslyn\System.Collections.Immutable.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\roslyn\System.Reflection.Metadata.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\roslyn\vbc.exe
+D:\Bimetal-WHS\Web API\BiMetal\bin\roslyn\VBCSCompiler.exe
+D:\Bimetal-WHS\Web API\BiMetal\bin\roslyn\VBCSCompiler.exe.config
+D:\Bimetal-WHS\Web API\BiMetal\bin\BiMental.dll.config
+D:\Bimetal-WHS\Web API\BiMetal\bin\BiMental.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\BiMental.pdb
+D:\Bimetal-WHS\Web API\BiMetal\bin\Antlr3.Runtime.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\BusinessEntities.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\BusinessServices.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\EntityFramework.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\EntityFramework.SqlServer.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\log4net.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AI.DependencyCollector.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AI.Web.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AI.WindowsServer.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.ApplicationInsights.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Security.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Security.Google.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Web.Infrastructure.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\Newtonsoft.Json.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\Owin.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\System.Net.Http.Formatting.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\System.Web.Helpers.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\System.Web.Http.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\System.Web.Http.Owin.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\System.Web.Http.WebHost.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\System.Web.Mvc.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\System.Web.Optimization.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\System.Web.Razor.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\System.Web.WebPages.Deployment.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\System.Web.WebPages.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\System.Web.WebPages.Razor.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\WebGrease.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\DataModel.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\MySql.Data.dll
+D:\Bimetal-WHS\Web API\BiMetal\bin\BusinessEntities.pdb
+D:\Bimetal-WHS\Web API\BiMetal\bin\BusinessServices.pdb
+D:\Bimetal-WHS\Web API\BiMetal\bin\log4net.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AI.DependencyCollector.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AI.Web.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AI.WindowsServer.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.ApplicationInsights.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\System.Net.Http.Formatting.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\System.Web.Http.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\System.Web.Http.WebHost.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\Newtonsoft.Json.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\System.Web.Helpers.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\System.Web.Mvc.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\System.Web.Optimization.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\System.Web.Razor.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\System.Web.WebPages.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\System.Web.WebPages.Deployment.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\System.Web.WebPages.Razor.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\Antlr3.Runtime.pdb
+D:\Bimetal-WHS\Web API\BiMetal\bin\EntityFramework.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\EntityFramework.SqlServer.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Security.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Security.Google.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\System.Web.Http.Owin.xml
+D:\Bimetal-WHS\Web API\BiMetal\bin\DataModel.pdb
+D:\Bimetal-WHS\Web API\BiMetal\obj\Debug\BiMetal.csprojResolveAssemblyReference.cache
+D:\Bimetal-WHS\Web API\BiMetal\obj\Debug\BiMental.dll
+D:\Bimetal-WHS\Web API\BiMetal\obj\Debug\BiMental.pdb
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\ApplicationInsights.config
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\roslyn\csc.exe
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\roslyn\System.Collections.Immutable.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\roslyn\System.Reflection.Metadata.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\roslyn\vbc.exe
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\roslyn\VBCSCompiler.exe
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\roslyn\VBCSCompiler.exe.config
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\BiMental.dll.config
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\BiMental.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\BiMental.pdb
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Antlr3.Runtime.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\BusinessEntities.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\BusinessServices.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\EntityFramework.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\EntityFramework.SqlServer.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\log4net.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.AI.Agent.Intercept.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.AI.DependencyCollector.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.AI.Web.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.AI.WindowsServer.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.ApplicationInsights.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.AspNet.Identity.Core.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.Owin.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.Owin.Security.Cookies.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.Owin.Security.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.Owin.Security.Facebook.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.Owin.Security.Google.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.Owin.Security.OAuth.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.Owin.Security.Twitter.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.Web.Infrastructure.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Newtonsoft.Json.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Owin.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\System.Net.Http.Formatting.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\System.Web.Helpers.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\System.Web.Http.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\System.Web.Http.Owin.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\System.Web.Http.WebHost.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\System.Web.Mvc.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\System.Web.Optimization.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\System.Web.Razor.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\System.Web.WebPages.Deployment.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\System.Web.WebPages.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\System.Web.WebPages.Razor.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\WebGrease.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\DataModel.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\MySql.Data.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\BusinessEntities.pdb
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\BusinessServices.pdb
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\log4net.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.AI.DependencyCollector.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.AI.Web.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.AI.WindowsServer.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.ApplicationInsights.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\System.Net.Http.Formatting.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\System.Web.Http.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\System.Web.Http.WebHost.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Newtonsoft.Json.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\System.Web.Helpers.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\System.Web.Mvc.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\System.Web.Optimization.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\System.Web.Razor.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\System.Web.WebPages.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\System.Web.WebPages.Deployment.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\System.Web.WebPages.Razor.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Antlr3.Runtime.pdb
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\EntityFramework.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\EntityFramework.SqlServer.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.AspNet.Identity.Core.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.Owin.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.Owin.Security.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.Owin.Security.Facebook.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.Owin.Security.Cookies.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.Owin.Security.OAuth.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.Owin.Security.Google.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.Owin.Security.Twitter.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\System.Web.Http.Owin.xml
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\bin\DataModel.pdb
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\obj\Debug\BiMetal.csprojResolveAssemblyReference.cache
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\obj\Debug\BiMental.dll
+D:\User\Muthu\Web API\20190227\Web API\BiMetal\obj\Debug\BiMental.pdb
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\ApplicationInsights.config
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\roslyn\csc.exe
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\roslyn\vbc.exe
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\BiMental.dll.config
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\BiMental.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\BiMental.pdb
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Antlr3.Runtime.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\BusinessEntities.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\BusinessServices.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\EntityFramework.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\EntityFramework.SqlServer.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\log4net.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.AI.Web.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.AI.WindowsServer.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.ApplicationInsights.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.Owin.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.Owin.Security.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.Owin.Security.Google.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Newtonsoft.Json.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Owin.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\System.Net.Http.Formatting.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\System.Web.Helpers.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\System.Web.Http.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\System.Web.Http.Owin.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\System.Web.Http.WebHost.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\System.Web.Mvc.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\System.Web.Optimization.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\System.Web.Razor.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\System.Web.WebPages.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\System.Web.WebPages.Razor.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\WebGrease.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\DataModel.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\MySql.Data.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\BusinessEntities.pdb
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\BusinessServices.pdb
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\log4net.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.AI.Web.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.AI.WindowsServer.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.ApplicationInsights.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\System.Net.Http.Formatting.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\System.Web.Http.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\System.Web.Http.WebHost.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Newtonsoft.Json.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\System.Web.Helpers.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\System.Web.Mvc.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\System.Web.Optimization.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\System.Web.Razor.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\System.Web.WebPages.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\System.Web.WebPages.Razor.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Antlr3.Runtime.pdb
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\EntityFramework.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\EntityFramework.SqlServer.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.Owin.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.Owin.Security.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.Owin.Security.Google.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\System.Web.Http.Owin.xml
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\bin\DataModel.pdb
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\obj\Debug\BiMetal.csprojResolveAssemblyReference.cache
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\obj\Debug\BiMental.dll
+D:\Projects\Bimetal-WHS\Source\Muthu\20190227\Web API\BiMetal\obj\Debug\BiMental.pdb
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\ApplicationInsights.config
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\roslyn\csc.exe
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\roslyn\vbc.exe
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\BiMental.dll.config
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\BiMental.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\BiMental.pdb
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Antlr3.Runtime.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\BusinessEntities.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\BusinessServices.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\EntityFramework.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\EntityFramework.SqlServer.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\log4net.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.AI.Web.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.AI.WindowsServer.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.ApplicationInsights.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.Owin.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.Owin.Security.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.Owin.Security.Google.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Newtonsoft.Json.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Owin.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\System.Net.Http.Formatting.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\System.Web.Helpers.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\System.Web.Http.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\System.Web.Http.Owin.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\System.Web.Http.WebHost.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\System.Web.Mvc.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\System.Web.Optimization.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\System.Web.Razor.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\System.Web.WebPages.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\System.Web.WebPages.Razor.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\WebGrease.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\DataModel.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\MySql.Data.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\BusinessEntities.pdb
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\BusinessServices.pdb
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\log4net.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.AI.Web.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.AI.WindowsServer.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.ApplicationInsights.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\System.Net.Http.Formatting.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\System.Web.Http.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\System.Web.Http.WebHost.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Newtonsoft.Json.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\System.Web.Helpers.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\System.Web.Mvc.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\System.Web.Optimization.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\System.Web.Razor.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\System.Web.WebPages.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\System.Web.WebPages.Razor.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Antlr3.Runtime.pdb
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\EntityFramework.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\EntityFramework.SqlServer.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.Owin.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.Owin.Security.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.Owin.Security.Google.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\System.Web.Http.Owin.xml
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\bin\DataModel.pdb
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\obj\Debug\BiMetal.csprojResolveAssemblyReference.cache
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\obj\Debug\BiMental.dll
+D:\Projects\Bimetal-WHS\Source\Latest Solution API\Web API\BiMetal\obj\Debug\BiMental.pdb
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\ApplicationInsights.config
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\roslyn\csc.exe
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\roslyn\System.Collections.Immutable.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\roslyn\System.Reflection.Metadata.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\roslyn\vbc.exe
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\roslyn\VBCSCompiler.exe
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\roslyn\VBCSCompiler.exe.config
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\BiMental.dll.config
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\BiMental.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\BiMental.pdb
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Antlr3.Runtime.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\BusinessEntities.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\BusinessServices.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\EntityFramework.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\EntityFramework.SqlServer.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\log4net.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.AI.Agent.Intercept.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.AI.DependencyCollector.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.AI.Web.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.AI.WindowsServer.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.ApplicationInsights.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.AspNet.Identity.Core.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.Owin.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.Owin.Security.Cookies.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.Owin.Security.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.Owin.Security.Facebook.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.Owin.Security.Google.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.Owin.Security.OAuth.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.Owin.Security.Twitter.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.Web.Infrastructure.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Newtonsoft.Json.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Owin.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\System.Net.Http.Formatting.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\System.Web.Helpers.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\System.Web.Http.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\System.Web.Http.Owin.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\System.Web.Http.WebHost.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\System.Web.Mvc.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\System.Web.Optimization.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\System.Web.Razor.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\System.Web.WebPages.Deployment.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\System.Web.WebPages.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\System.Web.WebPages.Razor.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\WebGrease.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\DataModel.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\MySql.Data.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\BusinessEntities.pdb
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\BusinessServices.pdb
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\log4net.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.AI.DependencyCollector.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.AI.Web.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.AI.WindowsServer.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.ApplicationInsights.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\System.Net.Http.Formatting.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\System.Web.Http.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\System.Web.Http.WebHost.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Newtonsoft.Json.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\System.Web.Helpers.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\System.Web.Mvc.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\System.Web.Optimization.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\System.Web.Razor.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\System.Web.WebPages.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\System.Web.WebPages.Deployment.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\System.Web.WebPages.Razor.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Antlr3.Runtime.pdb
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\EntityFramework.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\EntityFramework.SqlServer.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.AspNet.Identity.Core.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.Owin.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.Owin.Security.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.Owin.Security.Facebook.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.Owin.Security.Cookies.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.Owin.Security.OAuth.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.Owin.Security.Google.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.Owin.Security.Twitter.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\System.Web.Http.Owin.xml
+D:\VSS\WebApiBimetal\Web API\BiMetal\bin\DataModel.pdb
+D:\VSS\WebApiBimetal\Web API\BiMetal\obj\Debug\BiMetal.csprojResolveAssemblyReference.cache
+D:\VSS\WebApiBimetal\Web API\BiMetal\obj\Debug\BiMental.dll
+D:\VSS\WebApiBimetal\Web API\BiMetal\obj\Debug\BiMental.pdb

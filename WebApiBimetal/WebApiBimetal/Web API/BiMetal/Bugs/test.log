@@ -1,0 +1,55 @@
+2018-01-02 18:51:02,062 [8] ERROR WebBimetal.Controllers.TravelClaimController System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at WebBimetal.Controllers.TravelClaimController.RaisedAdvancClaims() in c:\GNSA\BiMetal\WebBimetal\Controllers\TravelClaimController.cs:line 118
+2018-01-02 18:51:54,272 [8] ERROR WebBimetal.Controllers.TravelClaimController System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at WebBimetal.Controllers.TravelClaimController.RaisedAdvancClaims() in c:\GNSA\BiMetal\WebBimetal\Controllers\TravelClaimController.cs:line 118
+2018-01-03 15:04:36,648 [10] ERROR WebBimetal.Controllers.TravelClaimController System.NullReferenceException: Object reference not set to an instance of an object.
+   at WebBimetal.Controllers.TravelClaimController.InsertAdvanceClaimDetails(String Artype, String Ardate, String LiqDate, String Arno, String Purpose) in c:\GNSA\BiMetal\WebBimetal\Controllers\TravelClaimController.cs:line 74
+2018-01-03 15:45:49,327 [33] ERROR WebBimetal.Controllers.TravelClaimController System.NullReferenceException: Object reference not set to an instance of an object.
+   at WebBimetal.Controllers.TravelClaimController.InsertAdvanceClaimDetails(String Artype, String Ardate, String LiqDate, String Arno, String Purpose) in c:\GNSA\BiMetal\WebBimetal\Controllers\TravelClaimController.cs:line 74
+2018-01-03 15:57:55,084 [6] ERROR WebBimetal.Controllers.TravelClaimController System.NullReferenceException: Object reference not set to an instance of an object.
+   at WebBimetal.Controllers.TravelClaimController.InsertAdvanceClaimDetails(String Artype, String Ardate, String LiqDate, String Arno, String Purpose) in c:\GNSA\BiMetal\WebBimetal\Controllers\TravelClaimController.cs:line 74
+2018-01-03 16:16:20,367 [8] ERROR WebBimetal.Controllers.TravelClaimController System.NullReferenceException: Object reference not set to an instance of an object.
+   at WebBimetal.Controllers.TravelClaimController.InsertAdvanceClaimDetails(String Artype, String Ardate, String LiqDate, String Arno, String Purpose) in c:\GNSA\BiMetal\WebBimetal\Controllers\TravelClaimController.cs:line 74
+2018-01-03 17:11:51,972 [10] ERROR WebBimetal.Controllers.TravelClaimController System.NullReferenceException: Object reference not set to an instance of an object.
+   at WebBimetal.Controllers.TravelClaimController.InsertAdvanceClaimDetails(String Artype, String Ardate, String LiqDate, String Arno, String Purpose) in c:\GNSA\BiMetal\WebBimetal\Controllers\TravelClaimController.cs:line 74
+2018-01-03 17:14:58,914 [11] ERROR WebBimetal.Controllers.TravelClaimController System.NullReferenceException: Object reference not set to an instance of an object.
+   at WebBimetal.Controllers.TravelClaimController.InsertAdvanceClaimDetails(String Artype, String Ardate, String LiqDate, String Arno, String Purpose) in c:\GNSA\BiMetal\WebBimetal\Controllers\TravelClaimController.cs:line 74
+2018-01-03 17:16:12,903 [11] ERROR WebBimetal.Controllers.TravelClaimController System.NullReferenceException: Object reference not set to an instance of an object.
+   at WebBimetal.Controllers.TravelClaimController.InsertAdvanceClaimDetails(String Artype, String Ardate, String LiqDate, String Arno, String Purpose) in c:\GNSA\BiMetal\WebBimetal\Controllers\TravelClaimController.cs:line 74
+2018-01-03 17:16:57,800 [11] ERROR WebBimetal.Controllers.TravelClaimController System.NullReferenceException: Object reference not set to an instance of an object.
+   at WebBimetal.Controllers.TravelClaimController.InsertAdvanceClaimDetails(String Artype, String Ardate, String LiqDate, String Arno, String Purpose) in c:\GNSA\BiMetal\WebBimetal\Controllers\TravelClaimController.cs:line 74
+2018-01-03 17:19:59,815 [19] ERROR WebBimetal.Controllers.TravelClaimController System.NullReferenceException: Object reference not set to an instance of an object.
+   at WebBimetal.Controllers.TravelClaimController.InsertAdvanceClaimDetails(String Artype, String Ardate, String LiqDate, String Arno, String Purpose) in c:\GNSA\BiMetal\WebBimetal\Controllers\TravelClaimController.cs:line 74
+2018-01-03 17:24:45,176 [28] ERROR WebBimetal.Controllers.TravelClaimController System.NullReferenceException: Object reference not set to an instance of an object.
+   at WebBimetal.Controllers.TravelClaimController.InsertAdvanceClaimDetails(String Artype, String Ardate, String LiqDate, String Arno, String Purpose) in c:\GNSA\BiMetal\WebBimetal\Controllers\TravelClaimController.cs:line 74
+2018-01-03 17:34:18,113 [38] ERROR WebBimetal.Controllers.TravelClaimController System.NullReferenceException: Object reference not set to an instance of an object.
+   at WebBimetal.Controllers.TravelClaimController.InsertAdvanceClaimDetails(String Artype, String Ardate, String LiqDate, String Arno, String Purpose) in c:\GNSA\BiMetal\WebBimetal\Controllers\TravelClaimController.cs:line 74
+2018-01-03 18:24:22,252 [8] ERROR WebBimetal.Controllers.TravelClaimController System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at WebBimetal.Controllers.TravelClaimController.GetClaimDetailsById(String ClaimId) in c:\GNSA\BiMetal\WebBimetal\Controllers\TravelClaimController.cs:line 160
+2018-01-04 16:16:12,737 [8] ERROR WebBimetal.Controllers.TravelClaimController System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at WebBimetal.Controllers.TravelClaimController.TravelClaim() in c:\GNSA\BiMetal\WebBimetal\Controllers\TravelClaimController.cs:line 240
+2018-01-04 16:16:39,851 [8] ERROR WebBimetal.Controllers.TravelClaimController System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at WebBimetal.Controllers.TravelClaimController.TravelClaim() in c:\GNSA\BiMetal\WebBimetal\Controllers\TravelClaimController.cs:line 240
+2018-01-04 16:17:04,885 [10] ERROR WebBimetal.Controllers.TravelClaimController System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at WebBimetal.Controllers.TravelClaimController.TravelClaim() in c:\GNSA\BiMetal\WebBimetal\Controllers\TravelClaimController.cs:line 240
+2018-01-04 16:17:06,400 [10] ERROR WebBimetal.Controllers.TravelClaimController System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at WebBimetal.Controllers.TravelClaimController.TravelClaim() in c:\GNSA\BiMetal\WebBimetal\Controllers\TravelClaimController.cs:line 240
+2018-01-04 16:17:11,169 [9] ERROR WebBimetal.Controllers.TravelClaimController System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at WebBimetal.Controllers.TravelClaimController.TravelClaim() in c:\GNSA\BiMetal\WebBimetal\Controllers\TravelClaimController.cs:line 240
+2018-01-04 16:21:31,146 [9] ERROR WebBimetal.Controllers.TravelClaimController System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at WebBimetal.Controllers.TravelClaimController.TravelClaim() in c:\GNSA\BiMetal\WebBimetal\Controllers\TravelClaimController.cs:line 240
